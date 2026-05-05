@@ -1,0 +1,120 @@
+# -*- coding: utf-8 -*-
+"""
+医疗问答：启发式筛低质量答案 + 可选本地 Qwen 润色重构（不编造新事实）。
+输入 JSONL：question, answer（或 question_key/answer_key 可配）。
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import sys
+from typing import Any, Dict
+
+from local_qwen_client import load_model_tokenizer, chat_complete
+
+SYS = (
+    "你是医学文本编辑。请在不新增临床事实、不改动核心诊断结论的前提下，"
+    "将用户给出的中文问答「答案」润色为更规范、完整、可读的医疗表述。"
+    "若原文已足够好，可轻微调整标点与分段。只输出润色后的答案正文，不要重复问题。"
+)
+
+
+def is_low_quality_answer(text: str) -> bool:
+    t = (text or "").strip()
+    if len(t) < 12:
+        return True
+    if len(t) < 40 and t.count("。") == 0 and t.count(".") == 0:
+        return True
+    # 单字符重复比例过高
+    if t:
+        mc = max(t.count(c) for c in set(t))
+        if mc / len(t) > 0.34:
+            return True
+    # 过多无意义占位
+    if re.search(r"(测试|test|TODO|待补充|不知道){3,}", t, re.I):
+        return True
+    return False
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--input", required=True)
+    ap.add_argument("--output", required=True)
+    ap.add_argument("--question_key", default="question")
+    ap.add_argument("--answer_key", default="answer")
+    ap.add_argument(
+        "--mode",
+        choices=("heuristic_only", "llm"),
+        default="llm",
+        help="heuristic_only 仅打标；llm 对低质量条调用模型重写",
+    )
+    ap.add_argument("--model_name_or_path", default=None)
+    ap.add_argument("--load_in_4bit", action="store_true")
+    ap.add_argument("--max_new_tokens", type=int, default=512)
+    ap.add_argument("--temperature", type=float, default=0.2)
+    ap.add_argument(
+        "--disable_thinking",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="关闭 Qwen 思考模式（与 Medical_Qwen --disable_thinking 对齐；默认开启）",
+    )
+    args = ap.parse_args()
+
+    model = tokenizer = None
+    if args.mode == "llm":
+        if not args.model_name_or_path:
+            raise SystemExit("--mode llm 需要 --model_name_or_path")
+        model, tokenizer = load_model_tokenizer(
+            args.model_name_or_path,
+            load_in_4bit=args.load_in_4bit,
+        )
+
+    n_in = n_out = n_polish = 0
+    with open(args.input, "r", encoding="utf-8") as inf, open(
+        args.output, "w", encoding="utf-8"
+    ) as out:
+        for line in inf:
+            line = line.strip()
+            if not line:
+                continue
+            n_in += 1
+            row: Dict[str, Any] = json.loads(line)
+            q = str(row.get(args.question_key) or "").strip()
+            a = str(row.get(args.answer_key) or "").strip()
+            if not q or not a:
+                continue
+            low = is_low_quality_answer(a)
+            row["_low_quality_flag"] = low
+            new_a = a
+            if low and args.mode == "llm" and model is not None and tokenizer is not None:
+                user = f"问题：{q}\n\n原始答案：{a}\n\n请输出润色后的答案："
+                new_a = chat_complete(
+                    model,
+                    tokenizer,
+                    user,
+                    system_text=SYS,
+                    max_new_tokens=args.max_new_tokens,
+                    temperature=args.temperature,
+                    disable_thinking=args.disable_thinking,
+                )
+                row["_rewritten"] = True
+                n_polish += 1
+            else:
+                row["_rewritten"] = False
+            row[args.answer_key] = new_a
+            out.write(json.dumps(row, ensure_ascii=False) + "\n")
+            n_out += 1
+
+    print(
+        json.dumps(
+            {"input_lines": n_in, "output_lines": n_out, "llm_rewrites": n_polish},
+            ensure_ascii=False,
+        ),
+        file=sys.stderr,
+    )
+
+
+if __name__ == "__main__":
+    main()
