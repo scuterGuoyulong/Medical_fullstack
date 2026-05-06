@@ -2,7 +2,7 @@
 """
 Qwen-VL 推理 + 医疗知识库 RAG（TF-IDF / sentence-transformers 等 index_kb 产物）。
 
-依赖（在已安装 Qwen-VL-Series-Finetune 训练环境基础上）:
+依赖（在已安装 medical_fullstack/train_unify 训练环境基础上）:
   pip install fastapi uvicorn qwen-vl-utils
 
 启动（见同目录 run_vlm_rag_server.sh）:
@@ -21,11 +21,11 @@ import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-# Qwen-VL-Series-Finetune/src 加入 path，以加载 utils / model
+# medical_fullstack/train_unify/src 加入 path，以加载 utils / model
 _SERVE_DIR = Path(__file__).resolve().parent
 _MEDICAL_FULLSTACK = _SERVE_DIR.parent
 _ANDES_VL_ROOT = _MEDICAL_FULLSTACK.parent
-_QWEN_SRC = _ANDES_VL_ROOT / "Qwen-VL-Series-Finetune" / "src"
+_QWEN_SRC = _MEDICAL_FULLSTACK / "train_unify" / "src"
 if _QWEN_SRC.is_dir():
     sys.path.insert(0, str(_QWEN_SRC))
 else:
