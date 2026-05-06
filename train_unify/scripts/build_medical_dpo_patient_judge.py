@@ -14,15 +14,15 @@
 输出：id, image, prompt, chosen, rejected（与 README DPO 示例一致）。
 
 示例（混合 + SFT 权重）：
-  cd Qwen-VL-Series-Finetune
+  cd medical_fullstack/train_unify
   export PYTHONPATH=src:$PYTHONPATH
   python scripts/build_medical_dpo_patient_judge.py \\
     --build_mode hybrid \\
     --vl_model_path output/qwen35_4b_medical_sft \\
-    --judge_model_path ../models/models/Qwen/Qwen3___5-4B \\
+    --judge_model_path ../../models/models/Qwen/Qwen3___5-4B \\
     --chosen_mode reference_light \\
     --rejected_mode sft_doctor \\
-    --image_folder ../DataSets/medical/mixed_sft \\
+    --image_folder ../../DataSets/medical/mixed_sft \\
     --ensure_placeholder \\
     --max_samples 100
 """
@@ -42,8 +42,8 @@ from typing import Any
 import torch
 from transformers import AutoModelForCausalLM, AutoProcessor, AutoTokenizer
 
-REPO_ROOT = Path(__file__).resolve().parents[1]  # Qwen-VL-Series-Finetune
-ANDES_VL_ROOT = REPO_ROOT.parent  # andes_vl（含 models/models/Qwen/...）
+REPO_ROOT = Path(__file__).resolve().parents[1]  # medical_fullstack/train_unify
+ANDES_VL_ROOT = REPO_ROOT.parent.parent  # andes_vl（含 models/models/Qwen/...）
 SRC_ROOT = REPO_ROOT / "src"
 if str(SRC_ROOT) not in sys.path:
     sys.path.insert(0, str(SRC_ROOT))
