@@ -8,7 +8,7 @@
   pip install jieba nltk rouge-score
 
 用法示例:
-  cd Qwen-VL-Series-Finetune
+  cd medical_fullstack/train_unify
   PYTHONPATH=src python scripts/eval_medical_bleu_rouge.py \\
     --base_model /path/to/Qwen3___5-4B \\
     --finetuned_model /path/to/output/qwen35_4b_medical_sft \\
