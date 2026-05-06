@@ -4,7 +4,7 @@
 - qa_sharegpt：question/answer -> ShareGPT conversations（可合并多条为 train_*.jsonl）
 - report_alpaca：MedicalReportRecord 字段 -> instruction/input/output
 - cpt_sharegpt：将 QA ShareGPT 与「报告伪对话」合并为统一 CLM 语料（conversations）
-- cpt_qwen_vl_json：供 Qwen-VL-Series-Finetune train_sft 使用（单文件 JSON 数组；报告含 <image> + image 相对路径）
+- cpt_qwen_vl_json：供 medical_fullstack/train_unify train_sft 使用（单文件 JSON 数组；报告含 <image> + image 相对路径）
 """
 
 from __future__ import annotations
@@ -16,7 +16,7 @@ from typing import Any, Dict, Iterable, List, Optional
 
 from schemas import MedicalQARecord, MedicalReportRecord
 
-# 与 Qwen-VL-Series-Finetune/src/constants.py 中 LLAVA_IMAGE_TOKEN 一致
+# 与 medical_fullstack/train_unify/src/constants.py 中 LLAVA_IMAGE_TOKEN 一致
 LLAVA_IMAGE_TOKEN = "<image>"
 
 DEFAULT_REPORT_VL_PROMPT = (
