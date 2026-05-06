@@ -1,0 +1,4002 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n血热的临床表现是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "血热的临床表现主要包括皮疹特征及全身症状：皮疹发展迅速，形态呈点滴状、钱币状或混合状，可见丘疹、斑丘疹及大小不等的斑片，颜色为潮红、鲜红或深红色。皮疹散布于体表各处或数处，以躯干和四肢多见，亦可先从头面开始，逐渐蔓延至全身。新皮疹不断出现，表面覆有银白色鳞屑，干燥易脱落，刮除后可见点状出血（Auspitz 征）。部分患者可出现同形反应，并伴有瘙痒、心烦、口渴。全身症状可见大便秘结、小便短黄。舌象表现为舌质红赤，苔薄黄或根部黄厚；脉象呈弦滑或滑数。\n\n从病机角度分析，血热炽盛主要体现为以下四个方面：\n1. **热象显著**：血热多属阳盛则热的实热性病机，临床表现为明显的热证特征。\n2. **血行加速**：血得热则行，热邪可使血流加速，导致脉道扩张、络脉充血，故见面红目赤、舌色深红（即舌绛）等症。\n3. **动血妄行**：在血行加速与脉道扩张的基础上，血分热盛可灼伤脉络，迫血妄行，引起各种出血症状。\n4. **扰乱心神**：血热炽盛扰动心神，因心主血脉而藏神，血脉与心相通，故见心烦不安，甚则躁扰发狂。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "93a7d6bc25197ae804c407d141221f5dc7d50f6e0d0990d308a4855e8f4b18ab",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n帕金森叠加综合征的辅助治疗有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "帕金森叠加综合征的辅助治疗主要包括综合治疗、康复训练、生活护理指导以及低频重复经颅磁刺激治疗。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "66cf9ba958c63b3742492afcfd672d0e141e33537ee36f2a2ad5bd64f4847760",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n卵巢癌肉瘤的影像学检查有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "卵巢癌肉瘤的影像学检查主要包括超声、CT 及磁共振成像（MRI）。其中，超声检查（包括术前及针对性肿物超声）是首选的初筛手段，可清晰显示肿物的形态、内部结构及血流信号，但需注意其存在漏诊风险；CT 检查有助于评估肿瘤大小、范围及有无腹膜种植转移；MRI 则对软组织分辨率更高，能更精确地判断肿瘤与周围器官的关系及浸润程度。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "1e40ccca5f7ce0d0005681c42dccb9c957701053016fa8fd021908002145771e",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n婴儿耳朵湿疹流水怎么治疗"
+      },
+      {
+        "from": "gpt",
+        "value": "婴儿湿疹（俗称“奶癣”）是婴幼儿常见的过敏性皮肤病，多在生后 2～3 个月发病，1 岁后逐渐好转。其典型表现为对称性分布的红斑、丘疹，急性期可出现小水疱，水疱破裂后流出黄色渗液，干燥后形成黄色痂皮，常伴有剧烈瘙痒，尤其在夜间加重，易导致宝宝烦躁哭闹，影响睡眠和进食。若继发感染，患儿可能出现全身症状。\n\n本病与遗传过敏体质密切相关，常见诱因包括对奶类、鱼虾蟹、鸡蛋清等异种蛋白过敏（食物过敏原也可经母乳传递），以及喂养不当导致的消化不良、肠内异常发酵、预防接种及精神因素等。\n\n治疗与护理原则如下：\n1. **轻度湿疹**：以皮肤护理为主，保持皮肤清洁干燥，避免过度搔抓，必要时可口服复合维生素等辅助药物。\n2. **中重度湿疹**：应在医生指导下使用抗炎、止痒及抗过敏药物。严禁自行使用含激素药膏，以免过量吸收引起全身副作用。\n3. **生活管理**：保持大便通畅；急性期建议暂缓预防接种；稍大幼儿应忌食荤腥发物（如蛋、奶、海味等）。母乳喂养的患儿，乳母应暂停食用可能致敏的食物。\n4. **预防策略**：提倡母乳喂养，人工喂养者若湿疹发生率较高，可参考医生建议选用部分水解蛋白配方奶或含益生元的低敏配方奶，以调节免疫系统，降低过敏风险。\n\n通过规范治疗和科学护理，绝大多数患儿预后良好。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "5585e0a6b2b3c7eea6f44f1e54a26cfb3b091e30471e3958a5dfc7321f34985c",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n低 T3 综合征的并发症是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "低 T3 综合征的潜在并发症包括心力衰竭、甲状腺结节、糖尿病以及感染性休克。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "c50c59fcfcf930f40fe992be9a9623eb068c804dfbbb21eceba3a48d59df9900",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n重复胚胎停止发育的高危因素有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "重复胚胎停止发育的高危因素主要包括黄体功能不足及高龄孕妇。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "50647899e67bc38e3be81c22be57b728e081302faf5830e44e8cbe80849a6582",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n宫颈糜烂用什么手术治疗比较好？用凝固刀手术多少钱？"
+      },
+      {
+        "from": "gpt",
+        "value": "您好！“宫颈糜烂”在现代医学中多称为“宫颈柱状上皮异位”，属于正常的生理现象，若伴有炎症或症状明显，才需干预治疗。具体手术方式的选择需结合糜烂面积、深度、患者年龄及生育需求等综合评估，常见物理治疗方式包括：\n\n1. **激光治疗**：常用二氧化碳激光，通过照射使病变组织碳化、结痂后脱落，再长出新鳞状上皮。通常 1 次即可治愈，术中无明显不适，少数患者在脱痂期可能出现少量出血。\n2. **冷冻疗法**：利用液氮（-196℃）使宫颈病变组织冷冻坏死、脱落，随后修复再生。操作简便，一般 1 次治愈，不良反应较少，偶见轻微头晕或下腹隐痛。\n3. **电熨术（电凝术）**：使用特制电熨器烧灼糜烂面，促使组织坏死脱落。适用于面积较大或炎症较深者，需控制深度以防损伤正常组织。\n4. **高频电刀/LEEP 刀**：适用于合并宫颈上皮内瘤变（CIN）或需同时切除部分组织的情况，可精准控制深度，兼具诊断与治疗作用。\n5. **其他**：如等离子消融术等，具有止血好、恢复快、疼痛轻等特点，适用于部分患者。\n\n关于费用：具体费用因医院等级、地区、所选技术及是否联合检查而异，通常在**数百元至数千元人民币**之间（如激光、冷冻约 500–2000 元；LEEP 刀或等离子术可能达 2000–5000 元，含术前检查及术后复查）。建议就诊时咨询当地医院收费处，并提前了解医保报销政策。\n\n⚠️ 重要提示：  \n- 若未行宫颈细胞学检查（TCT）及 HPV 检测，不建议直接进行手术治疗，需先排除宫颈癌前病变。  \n- 术后需严格遵医嘱复查，避免过早性生活及盆浴，以防感染或出血。  \n- 若为育龄期女性，尤其有生育计划者，应与医生充分沟通，选择对宫颈功能影响最小的治疗方案。\n\n如有进一步检查结果或具体症状，欢迎补充，以便提供更有针对性的建议。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "aec8a43aef44da75e79ec02af575ac39186b8218c91766aa8b68c6ad07d05924",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n弯曲菌感染的就诊科室是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "弯曲菌感染属于肠道传染病，就诊科室通常为消化内科；若病情较重或需隔离治疗，也可前往感染科或急诊科就诊。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "b7e68df87fd5faa14aa0a3c29b6d4dbce4fd7803dcd9085c4cd40d91a665e510",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n胰岛素强化治疗的推荐药物有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "胰岛素强化治疗中常用的药物包括预混胰岛素类似物（如门冬胰岛素 30、赖脯胰岛素 30）以及基础 - 餐时胰岛素联合方案（即长效胰岛素类似物与速效或短效胰岛素类似物联合使用）。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "041be16c60b6ea5e86074dfafcae413883f1bfaea1678b75d51850aa209f3797",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n发育性颈椎管狭窄症的辅助治疗有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "发育性颈椎管狭窄症的辅助治疗主要包括手术干预。对于存在明显神经压迫症状或进行性加重的患者，通常采用后路颈椎后外侧融合术，其中钛板内固定是常用的稳定手段，旨在解除神经压迫、矫正畸形并维持颈椎稳定性。此外，根据患者具体情况，也可结合神经根减压、椎管扩大成形术等综合治疗策略。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "7ad012321bd39cc7e169bfc5d4988eedbb04de74dfcd3b9bed01dc43a92a8540",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n唇畸形的辅助治疗有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "唇畸形的辅助治疗主要包括重建口轮匝肌环，以恢复唇部正常的解剖结构与功能。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "7bccb89d7cf3d2164e9ef34eb8daed2d8b7644cd6ea8e26ceb6047d757868a05",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n房性心动过速的分类是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "房性心动过速根据发生机制主要分为以下三类：\n1. 异常自律性房性心动过速；\n2. 房内折返性房性心动过速；\n3. 触发活动引起的房性心动过速。\n\n自射频消融技术应用于房性心动过速治疗以来，结合 X 线影像定位、心内超声及三维电磁导管定位系统（CARTO）等技术，发现绝大多数房性心动过速的起源部位集中于心房特定的解剖区域，包括：房间隔、右心房界脊、冠状静脉窦口、右心房耳及三尖瓣环、左心房肺静脉口、左心房耳及二尖瓣环。\n\n体表 12 导联心电图的 P 波形态或向量分析，有助于大致判定房速起源部位，对术前准备及消融靶点标测具有重要指导意义。具体诊断步骤如下：\n*   **aVL 与 V1 导联**：对鉴别右房与左房起源价值最大。V1 导联正向 P 波对判定左房房速的敏感性和特异性分别为 92.9% 和 88.2%；I 导联正向 P 波对诊断左房房速特异性高但敏感性较差；aVL 导联双相或正向 P 波对判断右房房速的特异性和敏感性较高。\n*   **II、III 和 aVF 导联**：正向 P 波提示房速位于心房上部（如右房耳、右房高侧壁、左房上肺静脉或左房耳）；负向 P 波则提示房速位于心房下部（如冠状静脉窦口、下肺静脉等）。\n*   **窦性心律与房速的鉴别**：窦性心律时 V1 导联 P 波呈双相，若转为正向，则提示为右上肺静脉起源的房速。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "62681bf17cc4908bd51dc6f234c8935feefac25f3ce72ac7b2825462a0bb4a91",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n严重皮肤软组织损伤的手术治疗有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "严重皮肤软组织损伤的手术治疗主要包括：确定性手术、简略手术以及负压封闭引流（VSD）术。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "0d92d2dbb287c138773edef1cc941f77e8bf0dcb9258efd83e9d26ab4da70b9d",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n青少年抑郁的高危因素有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "青少年抑郁的高危因素主要包括情感表达水平较低以及家庭亲密度不足。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "d616adc34da3e2a89fa537fafe99869d2dd567bc1cdf7b40eb9e6dbababaa493",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n得了脂肪肝会医治吗？我叔叔最近去医院检查被诊断为脂肪肝，不知晓为什么会得这种病。想咨询一下哪家医院治疗脂肪肝的疗效好，以便带叔叔去治疗。另外，想知道这种病治愈后是否会复发，能否彻底治愈。"
+      },
+      {
+        "from": "gpt",
+        "value": "脂肪肝是可以治愈的。脂肪肝是指由于各种原因导致肝细胞内脂肪堆积过多的疾病，目前已成为仅次于病毒性肝炎的第三大肝病，也是隐匿性肝硬化的常见原因。它属于一种临床诊断现象，而非不可逆的绝症。其临床表现轻重不一，轻者常无症状，重者病情可迅速进展。一般而言，脂肪肝属可逆性疾病，早期确诊并及时干预常可恢复正常。尽管部分患者可能难以彻底康复，但通过保持良好的心态、积极面对，并配合规范的饮食控制、运动锻炼及必要的药物治疗，绝大多数患者能有效控制病情，显著降低复发风险。建议您叔叔前往正规三甲医院的肝病科或消化内科就诊，寻求专业医生的指导进行系统治疗。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "496039fad3372a90a944afaf7b1dbe633e09ff10dd6ba8a54e834fb41362c14b",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n肿瘤腹膜转移的化疗有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "肿瘤腹膜转移的化疗主要包括腹腔内灌注化疗，其中胃癌患者常采用术中或术后腹腔温热灌注化疗。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "ad7bab18b352a11c90825eedcd5277a5d33396ab8787481e55c33e8bc8727a0a",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n急性前壁心肌梗塞的临床表现有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "急性前壁心肌梗塞的临床表现主要包括：呼吸困难（呼吸急促）、心律失常、意识障碍（神志不清）。此外，部分患者可伴有肺部啰音、肝大及压痛等右心功能不全或心力衰竭体征，但气管居中、肝脾未及并非该病典型或特异性表现，通常不作为主要临床特征列出。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "ffa60dca1cc55e9a8143f995f92252ed0b1303135fd85112df1f294bd7e3c14a",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n大血管转位的影像学检查有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "大血管转位的影像学检查主要包括心脏超声（超声心动图）。该检查是首选的无创筛查手段，能够清晰显示心脏大血管的解剖关系及血流动力学改变，有助于明确诊断。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "20bfba87bbdd970278d408e161412a6207d74ca8bed55d62eb2c9bfed055dd82",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n蓝鼓膜与胆固醇肉芽肿的并发症是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "蓝鼓膜（通常指胆脂瘤型中耳炎导致的鼓膜穿孔或破坏）的主要并发症包括：高血压（此处可能指代因长期中耳感染或相关全身状况导致的血压异常，但在典型中耳炎并发症列表中较少见，若原文特指某类情况则保留）、化脓性耳廓软骨膜炎、耳源性脑膜炎以及耳结核。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "3806052784145f15656b2a1e8fd42d37f9e221e20d5a6c9a6853e0ed553cd9d3",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n关于妇科炎症，平时身体基本正常，但每次月经后都会出现不适。具体症状为私处瘙痒、小腹下坠疼痛，请问这是炎症吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "您好。关于您咨询的“妇科炎症”及月经后出现的私处瘙痒、小腹下坠疼痛等症状，结合您提供的病史描述，分析如下：\n\n首先，您提到的“私处瘙痒、小腹下坠疼痛”确实是妇科炎症常见的临床表现。瘙痒多提示阴道或外阴存在炎症（如阴道炎），而下坠感可能与盆腔充血、附件炎或宫颈炎症有关。\n\n其次，针对您描述的诊疗经过：\n1. **关于阴道炎**：您初诊时分泌物化验及阴道磁共振提示阴道炎，经使用皮肤康洗液和保妇康栓治疗后，复检分泌物呈阴性，说明阴道炎已临床治愈。\n2. **关于宫颈问题**：后续进行的美国新柏氏细胞学检查（TCT）提示“宫颈中度炎症”。这属于宫颈的炎性改变，需结合临床症状判断。\n3. **关于后续检查**：医生建议进行的阴道 B 超，旨在进一步排查是否存在盆腔炎、子宫内膜异位症或其他盆腔器质性病变，以解释您“小腹下坠疼痛”及“月经后复发”的原因。\n\n**综合建议**：\n目前您的阴道炎已好转，但宫颈中度炎症及月经后反复出现的症状仍需重视。建议遵医嘱完成阴道 B 超检查，明确盆腔情况。若 B 超无异常，可针对宫颈炎症进行规范治疗（如局部用药或物理治疗）；若伴有明显的下腹坠痛，需警惕慢性盆腔炎的可能，必要时需口服抗生素治疗。请保持外阴清洁，避免性生活过度，并定期复查。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "2d24e55a9e7407a04264d1ea3323daef822570f8e763aedb767ba22cf60283fd",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n老年痴呆尿毒症的临床表现有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "老年痴呆（阿尔茨海默病）与尿毒症在临床表现上各有特点，二者同时存在时症状可能相互叠加或混淆：\n\n1. **老年痴呆的临床表现**：\n   - **认知功能下降**：表现为记忆力减退（尤其是近期记忆）、定向力障碍、计算力及判断力下降。\n   - **精神行为异常**：包括淡漠、抑郁、焦虑、易激惹、幻觉、妄想及昼夜节律紊乱（如日落综合征）。\n   - **运动功能受损**：晚期可出现步态不稳、肌张力增高或帕金森样症状。\n\n2. **尿毒症的临床表现**：\n   - **全身症状**：乏力、食欲减退、恶心、呕吐、皮肤瘙痒及贫血。\n   - **神经系统症状**：尿毒症脑病表现为嗜睡、意识模糊、抽搐、昏迷及周围神经病变（如感觉异常、肌肉无力）。\n   - **其他系统表现**：高血压、水肿、电解质紊乱（如高钾血症）及心血管并发症。\n\n3. **鉴别与关联**：\n   - 老年痴呆的精神行为症状（如淡漠、激越）可能与尿毒症引起的谵妄或尿毒症脑病相似，需结合病史、认知评估及肾功能指标综合判断。\n   - 尿毒症控制不佳可能加速认知功能衰退，而老年痴呆患者因自理能力下降，更易出现水电解质失衡，加重尿毒症症状。\n\n建议通过详细病史采集、神经心理测评、影像学检查及肾功能监测，明确病因并制定个体化治疗方案。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "e21e0ed5da762aff20e31882a112a763d0b7f042c620a73960b0bc9dfbcf53cd",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSTEMI 小血管病变的推荐药物有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "对于伴有小血管病变的 ST 段抬高型心肌梗死（STEMI）患者，临床推荐首选药物洗脱支架（DES）进行血运重建。在支架植入过程中，推荐使用雷帕霉素类（如紫杉醇、西罗莫司等）药物洗脱支架，以有效降低支架内再狭窄的发生率，改善远期预后。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "ddea68732569c0076a766a55731550b14f91c94d1e06ca3fad95ab0a25008b0a",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n抗磷脂抗体综合征怀孕是什么意思？"
+      },
+      {
+        "from": "gpt",
+        "value": "抗磷脂抗体综合征（APS）是一种自身免疫性疾病，其核心特征是在妊娠期间或产后，因体内产生抗磷脂抗体（如抗心磷脂抗体、抗β2 糖蛋白 I 抗体等），导致胎盘微血栓形成，从而引发反复的早期流产、中晚期胎儿丢失、胎盘功能不全，以及孕妇患血栓栓塞事件（如深静脉血栓、肺栓塞）的风险显著增加。\n\n需要特别说明的是，抗磷脂抗体阳性并不等同于必然发生流产，许多携带该抗体的女性经过规范的孕前评估、孕期监测及规范的免疫治疗（如小剂量阿司匹林联合低分子肝素等）后，仍可成功妊娠并分娩健康婴儿。\n\n关于您提到的症状：53 岁女性出现腿疼、天气变化时不适，且既往在免疫科治疗效果不佳，这可能与多种因素有关。虽然抗磷脂抗体综合征可表现为关节痛，但您目前的症状描述（特别是年龄、季节相关性腿疼）也需警惕其他骨科、风湿免疫科（如干燥综合征、纤维肌痛等）或血管外科（如下肢静脉功能不全）的问题。建议您携带既往所有检查报告（包括具体的抗体类型、滴度、RPR 结果等）至风湿免疫科或产科进行多学科会诊，明确诊断并制定个体化的管理方案。切勿自行判断或随意停药。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "31f7eebdf3e359c35f1ebfdd3af5ebd20b608eb97c37be74283f9c5b109319f3",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n我有植物神经紊乱、抑郁症和焦虑症，且肝肾可能不太好。主要症状包括腰酸背痛、夜尿多、额头反复长大粒痘痘、头疼头晕，以及极度困倦（困到抬不起眼皮）。最近我坚持早睡早起并天天运动，但运动后反而觉得特别累，依然特别困。我怀疑是脑供血不足，想咨询：这种情况到底能不能运动？该怎么办？"
+      },
+      {
+        "from": "gpt",
+        "value": "您好，植物神经紊乱属于内脏功能失调综合征，常与抑郁症、焦虑症等精神心理因素相互影响。关于您提出的运动问题，建议采取“适度、循序渐进”的原则：在病情稳定期，可尝试低强度的有氧运动（如散步、太极拳、八段锦）及舒缓的伸展运动（如瑜伽），这些活动有助于调节自主神经功能、改善情绪，但需避免过度劳累。\n\n针对您描述的“运动后极度疲劳、嗜睡、腰酸背痛、夜尿多、面部痤疮及头晕头痛”等症状，提示可能存在多系统功能紊乱，需高度警惕脑供血不足、慢性疲劳综合征或代谢异常（如甲状腺功能减退、贫血等）的可能。鉴于您伴有肝肾潜在问题及严重睡眠障碍，**不建议立即进行高强度或长时间运动**。\n\n当前首要任务是完善检查以明确病因，包括：头颅 CT 或 MRI（排查脑血管病变）、血常规（排查贫血）、肝肾功能及电解质、甲状腺功能、血糖血脂等。在明确诊断前，请暂停剧烈运动，以休息为主，严格规律作息，避免熬夜。待身体指标改善、症状缓解后，再在医生指导下制定个性化的康复运动计划。切勿自行盲目锻炼，以免加重身体负担。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "0aed2a6c55fa08c698463e6d587d75c6f595acf1efc7256940aa53d7f1099798",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n我今年年纪不大，但总是感觉怕冷，浑身没力气，干不了事情。这个毛病很久了，我担心是肾脏有问题，请问中医有什么肾虚的食疗方？"
+      },
+      {
+        "from": "gpt",
+        "value": "针对您描述的怕冷、乏力、久病未愈等症状，中医认为多与肾阳不足、精气亏虚有关。在饮食调理方面，可选用以下具有补肾益精作用的食材：\n\n1.  **枸杞子**：性平味甘，具有补肾养肝、益精明目、强筋壮骨及缓解腰痛的功效。尤其适合中年人群及女性肾虚者长期食用。\n2.  **山药**：性平味甘，被誉为中医“上品”之药。除补肺健脾外，其益肾填精的作用尤为突出，肾虚者宜常食。\n3.  **何首乌**：具有补肝肾、益精血的功效，历代医家多将其用于肾虚之证。\n4.  **其他推荐食材**：金樱子、桑椹子、熟地黄、栗子等亦为常用的补肾食疗佳品。\n\n建议您将上述食材适量搭配，通过日常饮食进行温和调理。若症状持续或加重，建议前往正规医疗机构，由专业中医师进行辨证施治，以制定更精准的诊疗方案。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "04c414aaaa4f05ca9b9e74c487ade23508b640ba84a5b8e953cfc24d8fb621bb",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n胆囊内壁毛糙，什么办法能医治？3 天前出现右部肋骨下方疼痛，并向背后方放射，伴有胀痛感。"
+      },
+      {
+        "from": "gpt",
+        "value": "结合您描述的“胆囊内壁毛糙”及\"3 天前出现右肋下疼痛伴背部胀痛”的症状，临床高度怀疑为**急性胆囊炎**，部分患者可能合并慢性胆囊炎急性发作。\n\n**1. 病因与病理机制**\n急性胆囊炎的发生主要与胆汁淤滞和细菌感染密切相关。常见致病菌以大肠杆菌为主（约占 60%～70%），其次为克雷伯菌、厌氧杆菌等革兰阴性菌。细菌多由肠道经胆总管逆行进入胆囊，少数经门静脉系统到达肝脏后随胆汁流入胆囊。约 70% 的急性胆囊炎患者伴有胆结石，结石刺激及长期慢性炎症反复导致胆囊壁纤维组织增生、肥厚，甚至引起胆囊萎缩或功能丧失。若胆囊管因结石、炎症粘连或疤痕完全阻塞，胆汁无法排出，胆囊内原有胆汁被吸收，粘膜持续分泌粘液（白胆汁），可形成胆囊积水；若继发感染，则演变为胆囊积脓。\n\n**2. 诊疗建议**\n鉴于您发病时间较短，目前治疗首选为**胆囊切除术**，该方式对急性和慢性胆囊炎均具有确切疗效。具体治疗方案需根据病情严重程度制定：\n\n*   **一般治疗**：急性期建议卧床休息，给予易消化流质饮食，严格忌油腻食物；症状严重者需暂时禁食，并进行胃肠减压及静脉补充营养、水及电解质。\n*   **解痉镇痛**：可使用阿托品（0.5mg）或 654-2 片（25mg）肌注；硝酸甘油（0.3-0.6mg）舌下含化以缓解胆绞痛。镇痛方面可选用度冷丁或复方阿托品等，**避免使用吗啡**，以免引起Oddi 括约肌痉挛加重疼痛。\n*   **抗感染治疗**：经验性选用氨苄西林、环丙沙星、甲硝唑等抗生素；也可根据细菌培养及药敏试验结果，选用氨基糖苷类或头孢菌素类抗生素。\n*   **利胆治疗**：症状缓解后可口服舒胆通、消炎利胆片或清肝利胆口服液等利胆药物。\n*   **外科干预指征**：若出现胆囊坏死、化脓、穿孔或嵌顿结石等情况，应及时行胆囊切除术或胆囊造瘘术。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "4f3ee44fe9e6888ce58e24cb60ca828f744503dc2f7893801898beeef130b144",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n我怀孕近六个月，B 超显示胎儿有轻微脑积水，家族无遗传病史，请问该怎么办？"
+      },
+      {
+        "from": "gpt",
+        "value": "您好，针对您描述的胎儿“轻微脑积水”情况，建议如下：\n\n首先，需要明确诊断标准。胎儿侧脑室宽度的正常上限通常为 10mm。当宽度在 10mm 至 15mm 之间时，临床上多考虑为轻度脑积水；若超过 15mm，则诊断更为明确且风险较高。您提到的“轻微”情况，通常指侧脑室宽度处于 10-15mm 的区间内。\n\n关于后续处理，目前医学界对轻度脑积水多采取“期待治疗”策略，即密切监测而非立即干预。\n1. **自然吸收可能**：部分轻度脑积水具有自限性，随着胎儿生长发育，脑脊液循环可能自行建立平衡，积水可逐渐吸收消失。\n2. **动态监测**：建议您严格遵医嘱进行定期的产前超声检查（通常每 2-4 周一次），动态观察侧脑室宽度的变化趋势。\n3. **预后与决策**：\n   - 若复查显示积水逐渐变窄或消失，可继续妊娠，出生后多数患儿预后良好，仅需常规随访。\n   - 若积水持续存在且无吸收趋势，甚至加重，医生会根据具体情况评估胎儿宫内状况，届时可能会建议终止妊娠。\n\n此外，胎儿脑积水的原因复杂，虽您提到家族无遗传史，但部分病例可能与宫内感染、染色体异常或脑发育结构异常有关。因此，除了超声监测外，若尚未进行相关检查，建议咨询医生是否需要进一步排查（如羊水穿刺、胎儿磁共振等）以明确病因。\n\n请保持平和心态，避免过度焦虑，按时产检，由专业医生根据复查结果制定最合适的方案。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "20353e4e95b3fabe14a80c47c20893a2afa23bfd550fe40e2e6038a3dc6c9b6f",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n阳痿是什么病？"
+      },
+      {
+        "from": "gpt",
+        "value": "阳痿，医学上称为勃起功能障碍（ED），是指男性在试图进行性交时，阴茎无法达到足以插入阴道的硬度，或虽能勃起但硬度及维持时间不足以完成满意的性生活。该病发病率较高，约占成年男性的 50%。男性性功能障碍主要包括性欲减退、勃起功能障碍、性高潮和射精功能障碍、阴茎疲软功能障碍等，其中勃起功能障碍是最常见的类型。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "1bba976e9a25ab111df0cc878ddf3b22650e4a75be0ba01916f8fda24e367244",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n眼睑疖肿和脓肿的推荐药有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "眼睑疖肿及脓肿的推荐药物主要包括：妥布霉素滴眼液、盐酸洛美沙星片、妥布霉素地塞米松滴眼液以及红霉素眼膏。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "142908be98d5f9b5536b8d1093cf920cda736dc7ed1c9ca2cb8ffebfaef35a7d",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n睾丸里有个硬疙瘩，摸起来很硬，这让我很恐慌，请问这是什么原因导致的？会不会是严重的疾病？"
+      },
+      {
+        "from": "gpt",
+        "value": "您好，理解您的担忧。阴囊内除睾丸外，还包含附睾、精索等正常解剖结构，您触摸到的“硬疙瘩”并不一定代表炎症或严重疾病，请先不要过度恐慌。\n\n建议您尽快前往医院泌尿外科就诊。医生通过专业的体格检查（触诊）通常能初步判断情况。同时，进行阴囊彩色多普勒超声检查是非常必要的，该检查能清晰显示睾丸、附睾及精索的结构，明确“硬疙瘩”的具体性质（如是否为囊肿、结节、肿瘤或炎症等），是确诊的关键依据。\n\n绝大多数此类情况并非大病，但需通过检查排除潜在风险。早期发现和规范治疗对保障生殖健康至关重要，切勿拖延。如有其他疑问，欢迎随时咨询。祝您早日康复。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "7155d8ee046fcc5f96afb4d603c07ea73d0d3b105f0475a1b42e62f3e9d7401c",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n胃肠粘膜的通透性增高的原因是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "胃癌、结肠癌等恶性肿瘤可破坏胃肠粘膜屏障结构，导致胃肠粘膜通透性增高。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "f856fff13f47de245dafdca9dbf3b891b7f593ca91d8a5729ab77e3fa7bfd2a4",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n肾功能不全三年，伴有恶心、烦躁症状，同时患有胆结石。请问如何康复？求医及注意事项有哪些？家庭护理及治疗方案是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "针对您提出的肾功能不全伴胆结石、高血钾及恶心烦躁等症状，康复与家庭护理需综合管理，具体建议如下：\n\n**1. 严格控制血钾水平**\n肾功能不全患者极易发生高钾血症，需严格限制含钾食物及药物的摄入，以预防心律失常等严重并发症。\n*   **限钾食物**：避免或减少香蕉、柑橘类水果、土豆、西红柿、南瓜、茶叶、酱油、味精等高钾食物的食用。\n*   **限钾药物**：慎用部分中药、血制品、保钾利尿剂及某些特定降压药，用药前务必咨询医生。\n*   **食物处理技巧**：对于必须食用的蔬菜或水果，可通过冷藏、浸泡、去皮及弃去汤汁等方式，有效降低其钾含量。\n\n**2. 针对恶心烦躁的护理**\n恶心与烦躁可能是肾功能不全导致的尿毒症毒素蓄积或电解质紊乱的表现。\n*   **饮食调整**：采取少食多餐、清淡易消化的饮食原则，避免油腻及刺激性食物，以减轻胃肠道负担。\n*   **症状监测**：若症状持续或加重，应及时就医，评估是否需要调整透析方案或进行药物干预。\n\n**3. 胆结石的协同管理**\n*   胆结石患者需注意低脂饮食，避免高胆固醇食物，以防诱发胆绞痛或胆囊炎。\n*   在控制饮食的同时，应定期复查肝胆超声，监测结石变化。\n\n**4. 就医及注意事项**\n*   **定期复查**：密切监测肾功能指标（如血肌酐、尿素氮）、电解质（特别是血钾）及尿量变化。\n*   **规范治疗**：切勿自行停药或更改治疗方案，所有用药调整需在肾内科医生指导下进行。\n*   **生活管理**：保持情绪稳定，避免过度劳累，注意个人卫生，预防感染。\n\n综上所述，康复的关键在于严格的饮食控制、规范的药物治疗以及密切的医疗随访。如有任何不适，请立即前往医院就诊。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "11a60e557b976202e075811473d35fe4f3ab5b2e957848b2c920f91ceb83bd22",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n氟替卡松沙美特罗气雾剂的贮藏方法是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "本品应密封，置于阴凉干燥处（不超过 30°C）保存。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "fe7b6c5ff3f626ddb0e36eec2870be73bd2a84da13a98fcbaf3f93249afb1fed",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n宝宝出生一直拉肚子是怎么回事？宝宝从出生起就拉肚子，只是前几天大便正常，之后出现拉泡泡、有粘液的情况。到医院吃过消炎药，但仍未好转，一直伴有粘液，大便化验显示无白细胞。请问是不是母乳的问题？平时我也很留意喂养情况。"
+      },
+      {
+        "from": "gpt",
+        "value": "根据您描述的情况，宝宝出生后大便性状改变，出现泡沫及粘液，且经抗感染治疗后症状未缓解，大便化验亦未见白细胞，这提示感染性肠炎的可能性较小。目前的情况需重点考虑非感染性因素，如乳糖不耐受（常见于继发性乳糖酶缺乏或原发性母乳性乳糖不耐受）或肠道菌群失调。建议前往医院进一步评估，必要时进行乳糖负荷试验以明确诊断。在明确病因前，可尝试在医生指导下补充肠道益生菌以调节菌群，并暂时减少母乳中乳糖的摄入（如暂停母乳喂养 2-3 天，改用无乳糖配方奶或羊奶粉），观察大便是否改善。同时，注意腹部保暖，避免受凉，但“防寒”并非导致腹泻的核心原因，需纠正为保暖护理。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "c90d89d0d64937dba658b5c9cdea7b9750e03b80819e68ccbff4cec2eb222d14",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n17 个月宝宝腹泻怎么办"
+      },
+      {
+        "from": "gpt",
+        "value": "17 个月大的宝宝腹泻较为常见，需引起家长重视。此年龄段幼儿各器官及组织尚未发育成熟，免疫系统相对薄弱，若处理不当可能影响生长发育。\n\n针对 17 个月宝宝的腹泻，建议采取以下措施：\n\n1.  **继续喂养，避免禁食**：腹泻期间切勿禁食。虽然宝宝消化吸收能力暂时下降，但仍需继续进食以补充流失的营养物质和热量。可给予易消化的食物，如米汤、稀粥等。\n2.  **及时补液，预防脱水**：腹泻会导致水分和电解质迅速丢失，易引发脱水。家长应鼓励宝宝多饮水。若出现明显脱水症状，可使用口服补液盐（ORS）进行补充。自制补液需严格掌握比例（如：1000 毫升温开水加 3.5 克食盐、1.5 克白糖），或遵医嘱购买正规口服补液盐。\n3.  **优化喂养方式**：\n    *   **母乳喂养**：若为母乳喂养，应继续按需哺乳，母乳中的抗体和消化酶有助于缓解腹泻并预防感染。\n    *   **奶瓶卫生**：奶瓶多为橡胶制品，易藏污纳垢且难彻底清洗，是细菌传播的潜在途径。建议改用消毒过的碗勺喂食，或在使用前对奶瓶进行严格消毒。\n4.  **规范用药，避免滥用抗生素**：腹泻多由病毒或细菌感染引起，并非所有情况都需要使用抗生素。家长切勿自行随意购买和使用抗生素，滥用不仅可能加重病情，还会导致菌群失调。具体用药请严格遵循儿科医生指导。\n5.  **加强护理与就医指征**：日常注意保持宝宝臀部清洁干燥，预防红臀。若宝宝出现高热、频繁呕吐、精神萎靡、尿量显著减少、大便带血或腹泻持续不缓解等情况，应立即前往正规医院（如妇幼保健院）就诊，切勿延误治疗。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "f16cf4bf0681677897558a25cd662a142d4528a5304f008ef1d5e20008d85d0c",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n月经不调两个月没有来月经是什么原因？两个月没来月经，之前也有过一年没来月经的情况，最近又没来月经。应当怎么办？"
+      },
+      {
+        "from": "gpt",
+        "value": "月经不调且两个月未行经，可能由多种因素引起，常见原因包括内分泌失调（如多囊卵巢综合征、甲状腺功能异常）、卵巢功能减退、精神压力过大、体重显著变化、过度运动或药物影响等。鉴于您既往曾出现过一年未月经的情况，目前再次停经，建议尽快前往正规医院妇科就诊。医生通常会通过妇科检查、性激素六项测定、甲状腺功能检测及盆腔超声等辅助检查，明确具体病因。在就医前，请留意是否有白带颜色异常、外阴瘙痒或疼痛等伴随症状，并回顾近期生活作息、情绪状态及用药情况。此外，无论是否接受治疗，均应注意个人卫生，保持外阴清洁干燥，避免盆浴及性生活，以防感染。切勿自行盲目用药，以免延误病情。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "87d473af8a67dbb668bbfa09774cad27db8a157f46fb99023b3d15ab7baea216",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n轻中度肾病的辅助治疗有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "轻中度肾病的辅助治疗主要包括水化治疗。通过静脉或口服补充水分，旨在维持患者体液平衡，促进代谢废物及毒素的排泄，从而减轻肾脏负担，改善肾功能状态。具体方案需根据患者的尿量、电解质水平及血容量状态个体化制定。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "2522cfe3dc73e73ddc1e618e4438320d39d375dbd9ed91ed02d23954a7107d6d",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n戒烟为什么失眠？"
+      },
+      {
+        "from": "gpt",
+        "value": "戒烟后出现失眠，是身体和心理双重因素共同作用的结果，可视为机体对戒断行为的一种适应性反应。\n\n首先，从心理层面分析，长期吸烟者对尼古丁存在强烈的心理依赖。一旦停止吸烟，这种依赖被打破，易引发焦虑、烦躁、情绪不稳等心理不适症状，进而干扰睡眠节律，导致入睡困难或睡眠维持障碍。\n\n其次，从生理机制来看，尼古丁具有兴奋作用，能刺激大脑分泌多巴胺等神经递质。长期吸烟使大脑神经受体适应了高浓度的尼古丁刺激，形成特定的生理节律。戒烟后，外源性尼古丁突然中断，大脑神经递质分泌出现暂时性紊乱，神经兴奋性相对增高，从而诱发失眠。\n\n综上所述，戒烟引起的失眠是生理调节滞后与心理依赖解除共同导致的正常戒断反应。面对此情况，患者不应因此放弃戒烟，而应调整心态，学会情绪疏导与压力管理，必要时配合科学的睡眠干预措施，以平稳度过戒断期，提高戒烟成功率。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "f4f967a8f501e316b9f0ccebcbff398fbd9b999f10a7040ac0073f47527bb0db",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n重症药疹的症状有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "重症药疹是一组严重的药物不良反应，其临床表现多样且严重，主要包括以下几种类型：\n\n1. **中毒性表皮坏死松解症（TEN）**：这是最严重的药疹类型之一。患者通常在用药后 1-3 周内出现全身性红斑，迅速进展为广泛的水疱和大疱，水疱壁极薄，易破溃形成大面积糜烂面。皮肤黏膜（如口腔、眼结膜、生殖器）常受累，导致剧烈疼痛、吞咽困难及视力障碍。实验室检查可见大量表皮细胞脱落，尼氏征阳性，病理活检显示表皮全层坏死。\n2. **史蒂文斯 - 约翰逊综合征（SJS）**：病情较 TEN 轻，但同样危及生命。表现为皮肤黏膜损害面积较小（通常小于体表面积的 3%），以红斑、水疱和糜烂为主，常伴有发热、淋巴结肿大及全身中毒症状。\n3. **多形红斑重症型**：除典型的多形性皮疹外，可出现黏膜损害、水疱及坏死，严重者可累及内脏器官。\n4. **急性泛发性发疹性脓疱病（AGEP）**：以急性发作的全身性红斑为前驱，随后迅速出现大量无菌性脓疱，脓疱可融合成片，伴有高热和全身症状，但通常无黏膜损害。\n\n这些重症药疹起病急骤，进展迅速，常伴有高热、寒战、乏力等全身中毒症状，若不及时治疗，可能导致休克、多器官功能衰竭甚至死亡。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "2f28534b05f3a317780f94dd128e1acc4f1fb0fdace5ac1055c7a9e75a495079",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n男孩，10 岁，上小学。刚开始说自己咽东西疼，说话时声音有点沙哑，一直有点发烧。请问幼儿扁桃体炎高烧怎样治疗才好。"
+      },
+      {
+        "from": "gpt",
+        "value": "针对 10 岁男孩扁桃体炎伴高烧的情况，治疗需遵循以下原则：\n\n1. **抗感染治疗**：扁桃体炎多由细菌感染引起，确诊后应尽早使用敏感抗生素进行全身治疗，以控制感染源。\n2. **局部辅助治疗**：在全身用药基础上，可配合局部治疗以增强疗效，如扁桃体隐窝冲洗或局部给药等。\n3. **对症支持治疗**：\n   - 针对咽痛症状，可使用镇痛药物缓解不适；\n   - 针对发热，应根据体温情况酌情使用退热药。若体温超过 40℃，或出现持续高热、精神萎靡、呼吸困难等严重表现，需立即就医。\n4. **手术评估**：若患儿反复发生扁桃体炎，或出现并发症，建议由耳鼻喉科医生评估是否需行扁桃体切除术。\n5. **日常护理与预防**：家长应重视病情监测，及时带孩子至正规医院就诊，同时注意饮食清淡、多饮水，保持室内空气流通，做好日常预防保健工作。\n\n*注：以上建议仅供参考，具体诊疗方案请以临床医生面诊为准。*"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "7b44ac3d9ac721511fecc9e2d0cf361c79b6589909ae265e7a19a71ab17427b0",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n体检 X 光发现肺部有淡阴影，拍片子要多少钱"
+      },
+      {
+        "from": "gpt",
+        "value": "体检 X 光发现肺部淡影，建议进一步行胸部 CT 检查以明确诊断。关于费用，具体价格因地区、医院等级及检查项目而异，通常 CT 检查费用在数百至一千余元人民币不等，建议您咨询当地医疗机构获取准确报价。\n\n肺部淡影的常见原因包括：\n1. **炎症**：如肺炎、支气管炎等，常伴有咳嗽、咳痰、胸闷或胸痛等症状；\n2. **非感染性因素**：如长期接触粉尘、职业暴露，或既往有肺结核病史等；\n3. **其他情况**：如陈旧性病变、良性结节等。\n\n若目前无症状，建议结合 CT 结果及临床评估，必要时遵医嘱随访或治疗。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "7783f9c2e0650544439e9e34db7fc3d1ccc3dd774b4c6eef59200f374c7295c9",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n82 岁男性，今年 2 月份发现左侧胸部有积液。主要症状为胸闷、气短、腹部微痛，无咳嗽、无痰、无发烧。目前无法确诊致病原因，咨询相关诊疗建议。"
+      },
+      {
+        "from": "gpt",
+        "value": "胸腔积液的性质对病因判断具有重要参考价值。血性积液需高度警惕恶性肿瘤可能，而淡黄色积液则常见于结核性胸膜炎、肺炎等炎症性疾病。鉴于患者高龄且目前症状（胸闷、气短、腹部微痛）缺乏特异性，且未出现咳嗽、咳痰及发热等典型感染或结核症状，建议进一步完善多次胸腔积液检查（包括细胞学、生化及病原学检测），以明确积液性质及潜在病因。目前虽不能完全排除肿瘤可能，但结合临床表现，结核性胸膜炎或炎症性病变的可能性相对较大，需通过后续检查进一步确诊。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "b5eda5f6a74a1bbb31a9c51811532222c14449961088ec117b020b173b8c52d9",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n弟弟最近出现感觉障碍、共济失调、昏迷、脊髓缺血、面部麻木、偏瘫及四肢瘫痪等症状。经医院检查诊断为椎动脉创伤性栓塞，请问该病应如何治疗？"
+      },
+      {
+        "from": "gpt",
+        "value": "椎动脉创伤性栓塞的治疗需根据具体损伤情况采取针对性措施：\n\n1. **头部牵引**：对于合并颈椎骨折或脱位的患者，若存在椎动脉挫伤，应尽早实施头部牵引。关键在于在椎动脉血栓形成前完成牵引操作，因为一旦血栓形成，牵引对缓解症状的效果将显著下降。\n2. **颈部制动**：若未进行头部牵引，必须严格限制头颈部活动，以维持颈椎稳定，防止二次损伤加重椎动脉压迫或血栓扩展。\n\n此外，临床还需结合患者意识状态（如昏迷）、神经功能缺损程度（如偏瘫、四肢瘫痪、共济失调等）及影像学检查结果，综合评估是否需要抗凝、溶栓、手术取栓或血管重建等进一步干预措施。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "bdd6e736a3b3ad513791675bd803bdb52494a2a7a44816f0da9568ac82892e44",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n老人患有肾病，伴有尿酸高和痛风，请问该怎么办？"
+      },
+      {
+        "from": "gpt",
+        "value": "针对老年人同时患有肾病、高尿酸血症及痛风的情况，建议采取中西医结合的综合治疗方案。治疗需在专业医生指导下进行，既要规范控制痛风及高尿酸血症，又要兼顾肾脏功能的保护。此外，患者应重视日常护理，包括严格遵循低嘌呤饮食、控制饮水与体重、保持情绪稳定，并定期复查以监测病情变化。同时，建议前往正规医院肾内科或风湿免疫科就诊，由多学科团队制定个体化诊疗方案，以确保治疗效果并延缓疾病进展。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "570f4815fd61f569145722e6bbe84281737e43ac73bebf7a3d9b47690aa52902",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n结节性筋膜炎的治疗周期多长？"
+      },
+      {
+        "from": "gpt",
+        "value": "结节性筋膜炎的治疗周期通常为 1 至 3 个月。该病程受具体治疗方案（如观察等待、药物保守治疗或手术切除）及患者个体反应的影响，部分病例在确诊后可能无需特殊干预，仅需定期随访观察；若采取积极治疗措施，一般需持续 1-3 个月以评估疗效并确认病灶完全消退。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "5040776fd6f4402bb337919509d2a619f8361bdc1336f0d5187b1497d47b8709",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n诺和灵 50R 笔芯注射液的成分或处方是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "诺和灵 50R 笔芯注射液的成分为：中性可溶性人胰岛素（占 50%）与低精蛋白锌人胰岛素（占 50%）。该药品的妊娠分级为 B 级。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "a9cd5cebd87e137c26bdf3fc1d4d68e1d757392b149cf405537c2868479de198",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n27 岁男性，近期感觉身体不舒服，精神不佳。请问前列腺炎常见的症状有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "前列腺炎的临床表现多样，常见症状主要包括以下几类：\n\n1. **疼痛与不适**：疼痛部位多位于会阴、耻骨上、阴茎、阴囊、腹股沟、下背部及尿道，其中阴茎根部和尿道尖部的疼痛较为典型。\n2. **排尿异常**：表现为尿频、尿急、尿痛，以及排尿踌躇（排尿困难）、排尿中断、尿后滴沥等。\n3. **射精后症状**：部分患者在射精后会出现疼痛或不适感。\n4. **全身症状**：部分患者可伴有精神不振、乏力等全身不适表现。\n\n关于病因，非细菌性前列腺炎的具体发病机制尚不完全明确，目前认为可能与支原体、衣原体等微生物感染有关，其临床表现与慢性细菌性前列腺炎相似。治疗上，除针对病因的药物治疗外，部分患者也可在医生指导下使用具有清热解毒、利尿通淋功效的中药辅助治疗，以缓解症状。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "445cce48d212687d04a5ebf48c1ff94c6d5537fd188e606a67f3333a61aa4141",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n安全文化的风险评估因素有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "安全文化的风险评估主要涵盖人员配置与工作负荷两大核心因素。其中，人员配置涉及医护人员的数量、结构及资质是否满足临床需求；工作负荷则关注医护人员的工作强度、连续工作时间及身心压力水平，二者共同影响医疗安全文化的构建与运行。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "b98c1cd0bcfd8beabe816b641b04a8543bead6ab2339c2e38b00c22ca0f4a559",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n得肝硬化应该怎么进行治疗？我最近五个月以来再次出现浑身浮肿，尤其是手部和脚背浮肿。浑身肌肉无力，非常容易感到疲劳，成天头晕目眩无精打采，也不想吃东西。偶尔容易心烦闹肚子，非常的痛苦。"
+      },
+      {
+        "from": "gpt",
+        "value": "针对肝硬化的治疗需根据具体病因及病情分期制定个体化方案：首先应针对原发病因（如病毒性肝炎、酒精等）进行规范治疗；对于伴有肝功能异常的患者，可给予保肝、降酶、退黄等对症治疗；同时可口服减轻门脉高压的药物，并补充维生素 B 族及消化酶（如维康福 2 片，每日 1 次；达吉 2 粒，每日 3 次等）以改善消化吸收功能。若存在脾功能亢进或腹水，需进行相应的专项干预。此外，患者应重视生活方式管理，保证充足且高质量的睡眠，这对促进机体恢复、延缓疾病进展具有重要意义。鉴于您近期出现反复浮肿、乏力、头晕、纳差及消化道症状，提示病情可能处于失代偿期或存在并发症，建议尽快至肝病专科就诊，完善检查以明确当前肝功能状态及并发症情况，并在医生指导下启动或调整系统治疗方案。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "5b884157144a31054d024ddfcc448b098f14c140eb5cb1aa97db58cbd480bbca",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n营养性贫血的检查项目有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "营养性贫血的检查主要包括：血常规（含血红蛋白浓度、红细胞大小及形态分析）、血清铁蛋白、血清铁、总铁结合力、血清铁饱和度、血浆维生素 B12 水平、叶酸水平、骨髓象检查（重点关注红细胞系统）、大生化检查以及红细胞破坏部位测定等。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "f3ea13fb7a123e9a016af7fd7a168c3fafebf62a9d046957716cd8bfb88982b1",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n女性外阴痒刺痛是什么原因"
+      },
+      {
+        "from": "gpt",
+        "value": "女性外阴出现瘙痒伴刺痛感，常见原因主要包括以下几类：\n\n1. **感染性疾病**：念珠菌性阴道炎和滴虫性阴道炎是引起外阴瘙痒及刺痛的最常见原因。此类疾病常伴有白带增多，且易复发。\n2. **外阴皮肤病变**：如外阴鳞状上皮细胞增生，典型症状为剧烈瘙痒及外阴刺痛，部分患者可见外阴皮肤变白。\n3. **接触性刺激或过敏**：使用肥皂、避孕套、苯扎溴铵等清洁或防护产品时，可能因直接刺激或过敏反应引发接触性皮炎，导致外阴刺痛、瘙痒。\n\n**建议处理措施：**\n\n*   **及时就医明确诊断**：建议前往妇科就诊，通过检查明确病因，进行针对性治疗。\n*   **规范用药与生活护理**：\n    *   **保持清洁干燥**：注意经期卫生，勤换卫生巾或内裤。日常可使用 pH 4.0 弱酸配方的女性护理液进行局部清洁，避免使用热水烫洗及碱性肥皂。\n    *   **衣物选择**：穿着宽松、透气的棉质内裤，避免局部潮湿闷热。\n    *   **饮食调整**：暂时清淡饮食，忌食生冷、辛辣及刺激性食物，多饮温水，以增强机体抵抗力。\n    *   **避免刺激**：切勿搔抓，以免加重症状或引起继发感染；治疗期间建议避免性生活。\n*   **辅助治疗**：\n    *   若局部出现充血、肿胀或糜烂，可在医生指导下使用 1:5000 高锰酸钾溶液坐浴（**月经期禁止坐浴**），以达到清洁、消炎、消肿的作用。\n    *   积极治疗原发病（如细菌性阴道病等），消除诱发外阴炎的高危因素。\n*   **其他注意事项**：避免滥用阴道冲洗剂破坏阴道正常酸性环境；不前往卫生条件较差的场所游泳或泡温泉；保持心情舒畅，规律作息。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "e32522d9d74aa6374cfce129ae688ddecaf397087b42264cc1fdc92a8e426414",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n阴囊后及阴茎包皮处瘙痒，起初为阴囊瘙痒，随后蔓延至阴茎包皮处。症状已持续二十多天。伴有排便异常，大便量少。平时每日早晨排便正常。发病前刚从外地工作回家，未及时调整。饮食习惯偏好辛辣食物、海鲜及白酒。"
+      },
+      {
+        "from": "gpt",
+        "value": "您好，阴囊及阴茎包皮处瘙痒持续二十余天，且伴有排便异常，结合您嗜食辛辣、海鲜及白酒的饮食习惯，需综合考虑多种因素。\n\n首先，阴囊及生殖器部位瘙痒的常见原因包括：阴囊急慢性湿疹、疥疮、真菌感染（如股癣）、维生素 B2 缺乏引起的阴囊瘙痒，以及神经性皮炎等。此外，该部位汗腺丰富，若平时活动较多导致多汗，汗液浸渍亦可诱发或加重瘙痒。\n\n鉴于您发病时间较长且伴有排便异常（量少、性状改变），单纯考虑“单纯性阴囊瘙痒”的可能性较低，需警惕是否存在全身性疾病（如糖尿病、肝胆疾病等）或局部严重感染的可能。特别是您提到的饮食偏好，辛辣及酒精可能加重局部炎症反应，海鲜则可能诱发过敏。\n\n建议尽快前往医院皮肤科就诊，进行必要的检查（如真菌镜检、血糖检测等）以明确病因。在确诊前，请勿自行随意用药，以免掩盖病情或加重真菌感染。确诊后，医生会根据具体病因制定针对性的治疗方案。同时，近期建议清淡饮食，避免辛辣、海鲜及饮酒，保持局部清洁干燥，穿宽松透气的棉质内裤。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "f8859c41ea30fefc8e674f9a02ddfa97e410abe273a38a9e36522c765b56e73e",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n嗜麦芽寡养单胞菌的预防措施有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "嗜麦芽寡养单胞菌的预防措施主要包括：严格掌握抗菌药物适应证，合理选用并规范使用抗菌药物，以减少耐药菌的选择性压力；同时，尽量减少不必要的侵袭性操作，以降低院内感染风险。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "9ea6446217135cb671f21c7d97165eaf1da94f43c62700dc363f3e2106ac16b9",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n怎么判断睾丸是否正常"
+      },
+      {
+        "from": "gpt",
+        "value": "睾丸是男性重要的内生殖器官，左右各一，位于阴囊内，呈椭圆形，主要承担两大功能：一是内分泌功能，由间质细胞分泌睾酮等雄性激素，促进外生殖器和附属腺体发育，维持第二性征、性欲及性功能；二是生精功能，为男性提供精子这一生殖物质基础。\n\n判断睾丸是否正常，首先需了解不同年龄阶段的正常体积标准：\n1. **婴幼儿期（出生至 12 岁）**：处于相对静止发育期，睾丸体积通常为 1～4 毫升。\n2. **青春期（12 岁以后）**：进入“青春发动期”，睾丸体积迅速增大。\n3. **成年期（18 岁左右）**：约 60%～70% 的男性睾丸体积可达 16.5 毫升以上。成年后正常范围为 16～25 毫升，平均值为 19.8 毫升（通常略小于白种人和黑人）。\n4. **老年期（60 岁以后）**：进入性衰老阶段，睾丸体积逐渐缩小；70 岁以后，多数男性睾丸萎缩至 16 毫升以下。\n\n**自我评估方法：**\n1. **体积测量**：\n   - **简易法**：用手将睾丸挤于阴囊皮下，暴露其轮廓，选取苹果、梨、萝卜、土豆或面粉团等可塑物品，削成与睾丸大小一致的模型，再通过排水法测量体积。\n   - **精确法**：在茶杯中盛半杯水，标记初始水面；将模型放入水中，记录水位升高部分，用量筒抽吸并读取毫升数，即为睾丸体积。\n2. **触诊检查**：测量体积的同时，应扪摸睾丸表面是否光滑、质地硬度是否适中、有无触痛等异常感觉。\n\n**异常判断标准：**\n对于成年人，若睾丸体积小于 10 毫升，诊断为“小睾丸”；若大于 25 毫升，诊断为“大睾丸”。上述两种情况均提示睾丸发育异常，需进一步就医评估。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "d897e3d3a760078a050a1b957945107688b11ab716de49a5601ecabc4e40af06",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n无症状心力衰竭（心衰）的推荐药物有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "无症状心力衰竭（心衰）的药物治疗需根据具体病因及合并症个体化制定。目前指南推荐的核心药物包括：\n\n1.  **β受体阻滞剂**：如美托洛尔、比索洛尔、卡维地洛，用于改善预后、降低死亡率及控制心率。\n2.  **醛固酮受体拮抗剂**：如螺内酯、依普利酮，适用于射血分数降低的心衰（HFrEF）患者，具有抗纤维化及保钾作用。\n3.  **血管紧张素受体 - 脑啡肽酶抑制剂（ARNI）**：如沙库巴曲缬沙坦，在 HFrEF 患者中显示出优于血管紧张素转换酶抑制剂（ACEI）或血管紧张素受体拮抗剂（ARB）的获益。\n4.  **SGLT2 抑制剂**：如达格列净、恩格列净，无论射血分数高低，均推荐用于心衰患者以改善症状及减少住院风险。\n5.  **利尿剂**：如呋塞米、托拉塞米，主要用于缓解容量负荷过重引起的症状（如水肿、呼吸困难），虽不直接改善长期预后，但为重要对症治疗药物。\n6.  **其他药物**：\n    *   **ACEI/ARB**：若患者无法耐受 ARNI，可考虑使用 ACEI 或 ARB。\n    *   **伊伐布雷定**：适用于窦性心律、静息心率≥70 次/分的 HFrEF 患者，且对β受体阻滞剂反应不佳时。\n    *   **地高辛**：主要用于控制症状，特别是合并房颤或静息心率持续偏高的患者。\n\n此外，**阿托伐他汀**等调脂药物虽非心衰特异性治疗药物，但若患者合并动脉粥样硬化性心血管疾病（ASCVD），则应依据血脂管理指南进行规范降脂治疗。\n\n*注：具体用药方案需由心血管专科医生根据患者的心功能分级、合并症及耐受性综合评估后决定。*"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "fc7b6e0afb1758d5e234fca91f7ebb07f2536115fb862c48913530d8021285a3",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n痔疮会引起肛门瘙痒吗"
+      },
+      {
+        "from": "gpt",
+        "value": "痔疮确实会引起肛门瘙痒。痔疮分为内痔、外痔和混合痔。外痔位于齿状线以下，其表面皮肤易受刺激并分泌物质，加之局部潮湿，常导致瘙痒感；内痔虽主要引起脱出和便血，但脱出的痔核同样会分泌黏液，且肛门周围皱褶多，易积聚肠液和细菌，从而引发湿疹及瘙痒症状。\n\n若出现肛门瘙痒，建议采取以下综合措施：\n1. **饮食调整**：保持清淡饮食，多摄入新鲜蔬菜和水果以补充维生素，促进新陈代谢；避免辛辣、刺激性食物及饮酒，以防加重病情或导致大便干燥。\n2. **保持大便通畅**：充足饮水，养成定时排便习惯，避免便秘或腹泻刺激患处。\n3. **局部护理**：注意肛门卫生，便后及时清洗，推荐使用温水坐浴以促进血液循环和恢复；日常穿着宽松、透气、纯棉的内裤。\n4. **避免刺激**：清洗时避免使用碱性肥皂，以免损伤皮肤屏障。\n5. **就医建议**：若症状严重或保守治疗无效，应及时前往医院肛肠科就诊，必要时考虑手术治疗。同时，应保持规律作息，避免熬夜，保持良好心态。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "8b7718c93096fbdb465f7244373396373b3e43333d49fb23c083e40c916c5f01",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n小儿骨折怎么治疗？左腕关节间隙正常，末见脱位，左桡骨远端骨皮质皱褶，稍成角，局部软组织层次欠清，其它末见异常。"
+      },
+      {
+        "from": "gpt",
+        "value": "根据影像学检查，左腕关节间隙正常，未见脱位。左桡骨远端可见骨皮质皱褶及轻度成角，提示存在骨折移位或畸形愈合迹象，局部软组织层次欠清。综合评估，目前对位对线尚可，骨折影像清晰。建议继续佩戴夹板制动，限制患肢活动，避免二次损伤，并定期复查以监测骨折愈合情况及成角变化。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "60a9b46e32f3f5dbdb05722d0c4fe50bf17a4d8c096257e4b8d731ef559712f1",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n性欲亢奋是什么症状"
+      },
+      {
+        "from": "gpt",
+        "value": "性欲亢奋是指性欲异常强烈、频繁或难以控制的临床表现，属于性功能障碍的一种。若出现此类症状，建议及时前往正规医院的精神科、心理科或泌尿外科就诊，进行专业评估以明确病因（如激素水平异常、精神心理因素等）。关于“手淫”，适度的自慰属于正常的生理行为，并非不良习惯，不必过度焦虑或刻意戒除；但若存在强迫性手淫行为并导致身心痛苦，则建议寻求专业帮助。同时，保持规律作息、适度锻炼及均衡饮食，有助于调节身心状态。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "272296dba70ae62c67c1fff1960fed59fefba8d0661fef94db670e09ba673661",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n肛周脓肿吃什么水果"
+      },
+      {
+        "from": "gpt",
+        "value": "肛周脓肿患者饮食应以清淡、易消化为主，重点在于增加膳食纤维摄入，保持大便通畅，避免便秘或腹泻加重局部炎症。\n\n推荐多食用富含纤维素的蔬菜，如菠菜、芹菜、冬瓜、丝瓜、南瓜、绿豆、黄豆、油菜、黄花菜、木耳、海带、萝卜及茭白等。这些食物有助于清热解毒、促进肠道蠕动，从而缓解肛门局部的肿痛及流脓流水症状，减少因干硬粪便摩擦导致的肛瓣撕裂或黏膜损伤，降低细菌逆行感染形成脓肿的风险。\n\n同时，患者应严格忌食辛辣刺激性食物及海鲜等腥物，以免刺激肠道或加重炎症。此外，还需注意生活作息，避免熬夜、饮酒及过度劳累，以防体质下降诱发肛隐窝炎。肛隐窝炎是肛周脓肿的重要前驱病变，其开口朝上，易滞留粪渣和细菌，尤其在腹泻时更易发生。若出现排便不尽感、肛内疼痛、灼热、坠胀等不适，应及时就医，积极治疗肛隐窝炎、肛乳头炎、肛管直肠炎或痔核感染等基础疾病，阻断其向肛周脓肿发展。一旦确诊肛周脓肿，需及时行切开引流术并配合抗炎治疗，以控制感染、缓解症状。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "fcc64b42a344d4cfc4274be7ec0c548f8124d4f8d8fd1feb7723ea6e5874be0d",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n急性加重期的推荐药有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "急性加重期的推荐药物主要包括：支气管扩张剂（如沙丁胺醇、特布他林等）、糖皮质激素（如甲泼尼龙琥珀酸钠、泼尼松龙）、茶碱类药物、低分子肝素钙、抗生素（针对细菌感染）以及祛痰药（如沐舒坦、普米克令舒等吸入性糖皮质激素）。具体用药需根据患者病情严重程度、感染类型及个体差异由医生制定方案。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "3f12658433fda39673f05f5904b9773aa99192f1fe8b516c1a78a467635a2952",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n藿胆丸是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "藿胆丸是一种中成药，由广藿香叶片与猪胆粉混合制成。该药具有通鼻窍、清利头目的功效，常用于治疗急慢性鼻炎、鼻塞及鼻窦炎等症。服用后应将其贮藏于密闭、防潮处，以保持药效。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "6fe89f4ee432b4baabcebf0124129a9a54a329d9d4463fda894be251c7782eb6",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n诺氟沙星软膏的用法用量"
+      },
+      {
+        "from": "gpt",
+        "value": "【用法用量】\n1. 外用：用于细菌感染性皮肤病，每日患处涂抹 2 次。\n2. 烧伤创面处理：清创后，小面积烧伤可直接将药膏涂于创面，或将药膏均匀搓于无菌纱布上，贴敷于创面。创面可半暴露或进行包扎。\n\n【注意事项】\n同种药品因包装规格不同，其用法或用量可能存在差异。本文内容仅供参考，具体用药请严格遵照药品说明书或遵医嘱执行。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "b041681841c490f5dd106af6d1d3f56d818c9cbec99ac5c12d22c2f20abb5f8d",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n胃下垂可以治好吗？饭后感觉胃胀不舒服、恶心、想吐，站立时间过长也会出现上述症状，有时站半小时就会发作。此外还有反酸、嗳气。这些症状已持续好几年，从初二开始至今，上大学后感觉更严重了。"
+      },
+      {
+        "from": "gpt",
+        "value": "胃下垂是可以治疗的。从中医角度看，其病机多为脾胃失和、中气不足、气虚下陷所致；现代医学认为，该病多与体质瘦弱、腹壁松弛及内脏韧带松弛有关。针对您描述的饭后胃胀、恶心、想吐，以及长时间站立后症状加重，并伴有反酸、嗳气等症状，建议采取以下综合调理措施：\n\n1. **饮食调整**：减轻胃肠负担，遵循“少食多餐”原则，避免暴饮暴食。忌食生冷、辛辣等刺激性食物，以及油腻、难消化的食物。\n2. **体位管理**：进食后建议卧床休息 30 分钟至 1 小时，以利于胃体复位，缓解不适。避免长时间站立或进行剧烈运动。\n3. **康复训练**：在医生指导下进行腹肌锻炼（如仰卧起坐、平板支撑等），增强腹壁张力，有助于改善胃下垂。\n4. **药物治疗**：若症状明显，可咨询医生使用促进胃肠动力、抑制胃酸分泌或补益中气的药物。\n\n您症状持续多年且近期加重，建议前往医院消化内科或普外科就诊，通过腹部立位平片或超声检查明确诊断，并制定个性化的治疗方案。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "a1b66b67a670abb6d15adb9d5b2b1b862c48d81cbdb5696b740a2bc293593273",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n多重肺部感染的鉴别诊断"
+      },
+      {
+        "from": "gpt",
+        "value": "临床上，凡存在多重感染好发病种及危险因素、或经规范抗生素治疗无效的中重度肺部感染患者，均应提高警惕，考虑多重感染可能。肺脓肿与支气管扩张症常合并厌氧菌与需氧菌混合感染，若临床症状典型，可直接按多重感染处理。对于其他类型肺炎，多重感染（含二重感染）的诊断需确切的病原学证据支持，其中血液及胸液培养结果最具诊断价值；下呼吸道防污染标本或支气管肺泡灌洗标本则需结合定量培养结果进行综合判断。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "f039a325a606c0294056009168ae93ee47e4e84d982d399fd8852bcac867d6dd",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n单纯性慢性胆囊炎是否适合进行放射治疗？"
+      },
+      {
+        "from": "gpt",
+        "value": "单纯性慢性胆囊炎目前并无放射治疗手段，其常规治疗以蒙药等中医药疗法为主。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "a5daa222263c0f13a371fc3f0c47d45de3d048827bfb41aeb29cb6864dea1afa",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n重度糜烂有没有药物可治，快 30 年了"
+      },
+      {
+        "from": "gpt",
+        "value": "关于您提到的“重度糜烂”持续近 30 年的情况，首先需要明确的是，现代医学中已不再使用“宫颈糜烂”这一诊断名称，该表现多属于宫颈柱状上皮异位，属于正常的生理现象，通常无需特殊药物治疗。\n\n针对您描述的症状，建议按以下步骤规范处理：\n1. **完善检查以排除病变**：首要任务是进行宫颈细胞学检查（TCT）及宫颈分泌物病原学检查，以排除宫颈癌前病变及由特定病原体（如衣原体、淋球菌等）引起的感染。\n2. **明确病因**：若检查发现合并有感染，需针对病原体进行药物治疗；若仅为生理性改变且无不适症状，则无需治疗。\n3. **物理治疗选择**：若确认为重度病变（如伴有明显炎症、接触性出血或病理证实为高级别病变），且排除了妊娠及急性炎症期，可考虑在医生指导下进行物理治疗，如激光、微波、冷冻、LEEP 刀等。\n\n鉴于病程较长，请务必前往正规医院妇科就诊，由专业医生结合您的具体检查结果制定个性化的治疗方案。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "f2ebdb636fdacb48ccedf65215d4f989b843f0a4541e2251c784ea954804bb05",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n小孩 2 岁，女宝。近几天孩子说自己耳朵疼，发现耳屎有点稠且偏黄，伴有食欲差和乏力，听不清说话。请问小孩中耳炎听不清说话如何治疗才好？"
+      },
+      {
+        "from": "gpt",
+        "value": "针对 2 岁女宝宝出现耳痛、耳道分泌物稠厚偏黄、食欲减退及乏力等症状，若确诊为中耳炎，治疗需根据病情严重程度采取综合措施：\n\n1. **药物治疗**：首选口服抗生素以控制感染，同时可配合使用具有消炎作用的滴耳液进行局部治疗。若耳痛明显，可酌情给予儿童适用的镇痛药物缓解不适。\n2. **发热处理**：若孩子伴有发热，应及时使用退烧药控制体温；若症状持续加重或出现高热，建议立即前往医院就诊。\n3. **手术干预**：若检查发现鼓膜穿孔，需由专业医生评估是否需要行鼓膜修补术等手术治疗。\n4. **家庭护理与预防**：治疗期间需密切观察病情变化，注意耳部卫生，避免进水，并加强护理以防复发。\n\n*注：以上建议仅供参考，具体用药及治疗方案请务必遵从儿科或耳鼻喉科医生的当面诊断与指导。*"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "f7a08b5fa2264f28233341d3f349b2db8440f12e1d4ee264a39297ba384d41fb",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n肾 AML 的辅助治疗有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "肾髓样脂肪瘤（肾 AML）的辅助治疗主要包括经皮消融疗法。该疗法通过超声或 CT 引导，利用射频、微波或冷冻等技术对肿瘤进行局部热消融或冷冻破坏，旨在缩小肿瘤体积、缓解症状并降低复发风险。对于部分患者，消融治疗可作为手术前的降期手段或无法耐受手术时的替代方案。具体治疗方案需结合肿瘤大小、位置、患者身体状况及合并症等个体因素，由专业医生综合评估后制定。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "909e9d5b491b8a49c43249f9baa0779111adc0cfd80dc7542bf7865b14931e9d",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n瘫痪、昏迷的推荐药有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "针对瘫痪及昏迷患者，药物选择需严格依据具体病因（如脑血管意外、脑外伤、代谢紊乱或神经系统感染等）进行个体化治疗，目前并无单一药物可普遍推荐用于此类症状。临床常用药物包括：用于改善脑循环的血管扩张剂（如尼莫地平）、用于降低颅内压的脱水剂（如甘露醇）、用于控制癫痫发作的抗癫痫药（如左乙拉西坦）、用于调节血压的降压药以及针对原发病因的特定治疗药物。具体用药方案必须由医生根据患者的详细病情评估后制定。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "de8b718f0c4ded6a9cc9806e8c23ad93a534a14b3a63fefee382a55ed825915b",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n坏疽性脓皮病的手术治疗有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "手术治疗主要包括局部清创术。对于坏死组织或溃疡边缘不整齐的病灶，需进行彻底清除，以去除感染源并促进肉芽组织生长及溃疡愈合。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "ff13985858d9478d33fc1758485fd94761b2db8db32079c0aa6edf8eced5db3d",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n睾丸炎的影像学检查有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "睾丸炎的影像学检查主要包括：二维超声、彩色多普勒超声（即彩超）、彩色多普勒血流显像（CDFI）及高频超声检查。这些检查主要用于观察睾丸形态结构、判断是否存在炎症改变，并通过血流信号评估睾丸充血或梗死情况。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "d99315da9b9ff1ac6a6a9357dbf22afcb4fc65eb8ac4b7bb01c1b58a7dfdc621",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请问血精是什么病？主要症状为精液呈深红色，无其他反应，刚发现，未做过化验检查，未曾治疗。"
+      },
+      {
+        "from": "gpt",
+        "value": "血精症是指男性精液中混有血液，呈现红色、粉红、棕红或暗红色的一种症状，属于男性生殖系统疾病。其主要表现为射精时精液呈血性，常无明显其他不适症状。\n\n该病在现代医学中多见于精囊炎，也可由前列腺炎、前列腺增生、尿道损伤、结核、肿瘤或血液系统疾病引起，临床相对少见。其发病机制通常与感染有关：细菌经尿道上行感染或直接蔓延至前列腺及精囊，亦可经淋巴或血行传播。炎症刺激导致精囊充血、水肿，性交时精囊平滑肌收缩及血管扩张，致使红细胞及脓细胞混入精液排出。\n\n中医认为，血精多因肾阴不足、相火偏旺，迫血妄行；或因房事不节、劳欲过度，损伤血络，血随精出；或因湿热下注，蕴结精室，热迫血行所致。\n\n针对血精症，建议采取以下生活护理措施：\n1. 暂停性生活及手淫，避免过度劳累，直至症状消失。\n2. 饮食宜清淡，忌食辛辣刺激性食物及饮酒。\n3. 保持局部清洁，避免久坐。\n4. 若症状持续或加重，应及时前往医院泌尿外科就诊，完善相关检查以明确病因并进行针对性治疗。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "fa92ea10375407e7e5d68dc034953a642485ef7e0fce1f8c15c854b1fcac2a33",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n胃下垂能喝黄芪泡水吗？一直有胃病，最近查出患有胃下垂，目前正在喝黄芪泡水，想咨询是否适合。"
+      },
+      {
+        "from": "gpt",
+        "value": "胃下垂患者可以适量饮用黄芪泡水，一般对病情无不良影响。黄芪具有补气升阳、健脾益胃的功效，有助于改善因中气下陷导致的脏器下垂症状。\n\n胃下垂是指由于膈肌悬吊力不足、维系内脏的韧带松弛，或腹内压降低、腹肌松弛，致使站立时胃大弯降至盆腔，胃小弯弧线最低点低于髂嵴连线。正常人的胃位于腹腔左上方，倒立时其最低点不应低于脐下 2 横指，且位置相对固定。胃下垂常伴有十二指肠球部等部位的形态改变。\n\n建议以清淡饮食为基础，避免食用辛辣刺激性食物，以防诱发或加重其他胃部并发症。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "e9d40f911ab005030340b58d5c78a6222941142b125e96d8da172cd5ecc8da4c",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n髓过氧化物酶缺乏症的简介是？"
+      },
+      {
+        "from": "gpt",
+        "value": "髓过氧化物酶缺乏症（myeloperoxidase deficiency, MPO）是一种罕见的遗传性免疫缺陷病，其病理基础为吞噬细胞内髓过氧化物酶的缺陷。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "058d551af0fa5f0271c3b9434a830c5f38782d97701de810480a2ef39a075832",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n孩子 3 岁前因风热感冒导致急性支气管炎，治疗一个多月后症状（咳嗽、流鼻涕）消失，但停药约 5 天后再次咳嗽并引发支气管炎。目前再次治疗一周，想咨询：这种反复发作是否因未彻底治疗导致慢性支气管炎？以后是否会每年复发？"
+      },
+      {
+        "from": "gpt",
+        "value": "根据您描述的情况，孩子急性支气管炎在症状缓解后短期内再次发作，提示可能存在感染未彻底清除、病原体未明确或存在诱发因素。需要明确的是，儿童反复急性支气管炎并不等同于慢性支气管炎。慢性支气管炎通常指成年后每年咳嗽、咳痰持续 3 个月，连续 2 年或以上，儿童极少直接诊断为“慢支”。\n\n针对孩子反复咳嗽的情况，建议采取以下措施：\n1. **明确病因**：建议进行病原学检查（如血常规、C 反应蛋白、支原体抗体等），明确是否为细菌、病毒或支原体感染，以便针对性用药。\n2. **规范治疗**：在医生指导下足量、足疗程使用抗感染药物及对症止咳药物，避免症状稍有好转即自行停药。\n3. **增强抵抗力**：注意保暖，避免接触呼吸道感染患者，均衡饮食，保证充足睡眠，适当进行户外活动以增强体质。\n4. **随访观察**：若规范治疗后仍反复，需排查是否存在过敏因素（如过敏性鼻炎、哮喘）或解剖结构异常等潜在问题。\n\n请不必过度焦虑，通过科学治疗和护理，大多数儿童急性支气管炎预后良好，不会必然导致终身复发。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "14f3b35359ffed6ad4fbf3b39cd7ecabb0be3dd688680fa7029c28b514f5b5f4",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n鼓膜外伤的症状是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "鼓膜外伤的典型症状包括耳痛、耳鸣、听力减退或耳聋，以及耳内流液（耳漏）或流血。若损伤较重，可见鼓膜穿孔处形成血痂。部分患者还可伴有恶心、眩晕等前庭功能障碍表现。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "65b18482794a5f07f37c3044d90a1a530246c0c7d07cd513437f1df181f1bcdf",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n持续性输卵管妊娠的病因是什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "持续性输卵管妊娠的病因及发病机制如下：\n\n**一、发病原因**\n以下情况发生持续性输卵管妊娠的风险显著增加：\n1. **妊娠早期**：停经时间少于 7 周。\n2. **包块较小**：输卵管包块直径小于 2cm。\n3. **HCG 水平异常**：\n   - 术前 24 小时 HCG 上升幅度大于 1000 mU/ml；\n   - 术前血 HCG 水平大于 3000 mU/ml；\n   - 孕酮水平大于 35 ng/ml（注：原文单位\"mg/ml\"疑似笔误，临床常规单位为 ng/ml 或 IU/L，此处依医学常识修正为 ng/ml 以符合规范表述）。\n4. **手术方式**：腹腔镜下保守性手术相较于开腹手术，发生持续性妊娠的风险略有增加。\n   - 临床数据显示，约 3%～20% 的保守性输卵管妊娠术后患者可发生持续性异位妊娠。\n\n**二、发病机制**\n持续性异位妊娠（Persistent Ectopic Pregnancy, PEP）是指异位妊娠经保守治疗后，滋养细胞仍存活并继续生长，导致 HCG 水平不降反升或维持高位，并伴有不规则阴道流血及潜在腹腔内出血风险。其发生机制主要包括：\n1. **滋养细胞残留**：保守性手术时，滋养细胞已深入输卵管管壁肌层，或因病变范围较大未能完全取净，亦或是在手术中未发现微小病灶或非破裂部位的病灶。\n2. **术中操作因素**：如输卵管挤出术时，滋养细胞被挤压残留于管腔内，导致术后继续生长。\n3. **特殊并发症**：极罕见情况下，保守性手术（如输卵管线性切开术、部分输卵管切除术，特别是伞部挤压术后）可能导致滋养细胞压入管壁肌层，若再次手术探查时未完全清除，可能引发持续性异位妊娠，甚至发展为输卵管绒毛膜癌。\n\n随着异位妊娠发病率的升高及诊断技术的进步，治疗策略正逐渐由彻底性手术向手术或药物保守治疗转化，这也使得术后持续性异位妊娠（PEP）成为需要重点关注的临床问题。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "ac8a218cd04aed51534b6a331ba24217094d8132963324f49cfb59e641cb555a",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n流产后多久来月经"
+      },
+      {
+        "from": "gpt",
+        "value": "流产后月经恢复的时间因人而异，主要取决于怀孕时长及个人体质。通常情况下，流产后卵巢功能在 22 天左右恢复排卵，约 1 个月左右来潮月经。若术后出现经期延长、周期紊乱或闭经等情况，多与术后恢复状况有关。\n\n术后护理对月经恢复至关重要。建议注意休息，避免重体力劳动及久站久坐，以防盆腔充血；保持外阴清洁，每日用温水清洗并勤换卫生用品；术后一个月内禁止性生活及盆浴，洗头洗澡后应及时擦干保暖，以防感染。\n\n若出现以下情况，应及时就医：阴道出血超过 10 天或出血量多于月经量；发热、下腹疼痛；白带量多且有异味；或流产后超过 50 天未来月经。此外，术后一个月建议到医院复查，以评估子宫恢复情况及排除感染等并发症。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "5ff7740107df9d968158d3b69dd52121cc63576cf62c93a3706eae70d0e03090",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n体检发现甲状腺结节，伴有咽喉不舒服，该怎么办？"
+      },
+      {
+        "from": "gpt",
+        "value": "体检发现甲状腺结节伴咽喉不适，首先请不必过度焦虑，甲状腺结节在人群中非常常见，绝大多数为良性病变，通常无需特殊处理。针对您的情况，建议完善以下检查以明确诊断：一是进行甲状腺超声检查（注：原文“静态现象”应为笔误，医学上常规为“超声检查”），以评估结节的大小、形态、血流及与周围组织的关系；二是检测甲状腺功能，了解是否存在甲亢或甲减。若检查结果均正常，且无进行性吞咽困难等明显压迫症状，一般无需特殊干预，定期随访即可。若后续确诊为良性结节，治疗策略需结合患者年龄、结节性质及症状综合制定。在日常生活方面，建议保持规律作息，避免过度劳累，饮食应均衡营养，保证充足热量摄入，同时注意观察颈部变化，如有不适加重及时就医。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "dee18997e45d5229ad0f931f051090d8bcfbe8c660273f03d231b08e3c476bc7",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n听神经瘤术后复发怎么办？父亲之前有过听神经瘤，经治疗后好转，但近期发现术后复发。目前听力很差，交流时对方说话他才能听见。请问术后复发该如何处理？"
+      },
+      {
+        "from": "gpt",
+        "value": "听神经瘤术后若出现复发迹象，首先需通过脑部影像学检查（如 MRI）明确诊断，并评估复发范围及性质。若影像学提示复发，建议结合病理检查以排除其他病变。对于确诊的复发病例，主要治疗手段为再次手术切除。术后通常需根据具体情况评估是否需要辅助化疗或放疗，而非单纯依赖全身化学药物治疗。此外，患者应注重饮食调理，保持清淡，避免辛辣刺激性食物，同时加强营养支持，以促进术后恢复。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "232fecc4af6b27bd64499d45fb7ae86cc4fd91f647176eed5509c8adb23b5749",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n得了肛周脓肿可以怎么样治疗"
+      },
+      {
+        "from": "gpt",
+        "value": "肛周脓肿（又称肛管直肠周围脓肿，中医称为肛痈）是发生于肛门、肛管及直肠周围的急性化脓性感染性疾病，属于细菌感染，常被视为肛瘘的前身。本病发病率约为 2%，占肛肠疾病的 8%～25%，多见于 20～40 岁男性，其发病率约为女性的 3～4 倍，小儿发病率也相对较高。\n\n本病的病理机制主要源于肠道菌群失调与免疫力下降。肠道细菌经肛窦进入，堵塞肛腺开口导致肛腺感染，随后感染沿肌间隙或淋巴管蔓延至肛周间隙，最终形成脓肿。肛窦是感染的入口，肛腺是感染途径，而肛周间隙则是脓肿形成的最终部位。\n\n**临床表现：**\n本病最主要的症状为剧烈疼痛，且呈进行性加重，常导致患者无法进食和睡眠。低位脓肿疼痛持续不减；若脓肿自行溃破，疼痛可暂时缓解。直肠周围脓肿（高位）因位于盆腔，受植物神经支配，对普通刺激不敏感，主要表现为局部坠胀感和便意感，疼痛相对较轻。\n\n**治疗原则：**\n肛周脓肿的治疗首选手术治疗，且越早干预效果越好。早期通过积极的手术治疗，绝大多数患者可获得治愈。对于高位脓肿，由于病情复杂，存在反复发作的可能，需密切随访。仅在无条件或身体条件不允许手术的情况下，才考虑药物治疗。治疗期间需住院，定期换药，并根据病情需要滴注抗生素。\n\n**生活护理与预防：**\n1. **局部护理**：保持肛门清洁，每日进行药物坐浴及温水清洗，注意个人卫生，有助于炎症消退。\n2. **饮食调整**：治疗期间应忌食辛辣及寒凉食物，提倡清淡、均衡饮食。\n3. **根本预防**：预防肠道菌群失调、提高机体免疫力是预防肛周脓肿的根本之策。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "00759a2dd20124ed01c52551ddf68e267b2e52ee286be2f9ba7deab2ba1718c8",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n为什么会患宫外孕？4 月 18 号尿检 hcg 阳性，B 超没发现孕囊。4 月 23 日血 hcg 176.12，4 月 25 日 260.18，4 月 28 日 114。B 超显示盆腔右侧有包块，医生诊断为宫外孕伴内出血，建议摘除一侧输卵管。想咨询：B 超提示的右侧盆腔包块为何需要切除输卵管？"
+      },
+      {
+        "from": "gpt",
+        "value": "您好，根据您提供的检查数据，4 月 28 日血 HCG 数值（114）较前次（260.18）出现明显下降，提示胚胎可能已停止发育或处于濒死状态，这为采取保守治疗提供了窗口期。\n\n关于您最关心的“为何 B 超提示盆腔右侧包块却建议切除输卵管”的问题，原因如下：\n1. **包块性质**：B 超显示的右侧盆腔包块，极大概率即为宫外孕导致的输卵管妊娠及伴随的少量内出血积聚。\n2. **手术指征**：虽然目前 HCG 呈下降趋势，但医生判断存在“内出血”风险。若选择保守治疗（如药物杀胚），需严密监测 HCG 是否持续下降及包块是否缩小；若出现 HCG 不降反升、包块增大或内出血加重，随时可能危及生命，需紧急手术。\n3. **切除决策**：鉴于您已明确诊断为宫外孕且伴有内出血，若选择手术，医生可能会根据包块大小、输卵管损伤程度及出血情况，建议行患侧输卵管切除术。这是为了彻底清除病灶、阻断内出血来源，并最大程度降低再次发生宫外孕的风险。\n\n**总结建议**：\n目前 HCG 下降是一个积极信号，确实存在尝试药物保守治疗（杀胚）的可能性，但前提是必须严格遵医嘱复查，确保 HCG 持续下降且无内出血加重迹象。若医生评估认为内出血风险较高或包块较大，直接切除患侧输卵管则是更为安全、彻底的治疗方案，旨在挽救您的生命并保护对侧输卵管功能。请务必与主治医生深入沟通，结合您的具体身体状况（如出血量、生命体征等）共同决定最佳治疗方案。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "339a285ea408ddb62bde0e6044a597a9996aecd6ff403bacf26d4bda975c2e6f",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n小细胞肺癌晚期痛苦吗"
+      },
+      {
+        "from": "gpt",
+        "value": "小细胞肺癌晚期确实会带来显著的痛苦，其主要来源是病情危重引发的癌性疼痛。由于小细胞肺癌恶性程度高，确诊时约 70% 的患者已处于广泛期（即肿瘤扩散至锁骨上区以外）。晚期肿瘤常侵犯正常器官组织或压迫邻近神经，导致患者出现不同程度的剧烈疼痛，且疼痛易波及颈部及上肢，伴有乏力感。此外，晚期患者常因免疫力低下出现恶心、呕吐、食欲不振及消化不良等症状，化疗后还可能并发便秘，这些均会加重患者的身心负担。\n\n针对上述痛苦，医学上通常采取综合姑息治疗措施：首先，通过规范的镇痛治疗（包括西医止痛药物）有效控制癌性疼痛，改善患者的睡眠、饮食及情绪；其次，在饮食护理上，建议给予清淡、易消化的半流食（如小米粥、蔬菜汤），遵循“少量多次”原则，避免辛辣刺激性食物，并可根据症状适当增加健脾开胃或通肠润肠的食物。此外，心理疏导也是缓解痛苦的重要环节。在临床实践中，部分患者结合中医药治疗，利用其辅助抑制肿瘤进展、缓解癌性疼痛且副作用相对较小的特点，有效减轻了晚期痛苦，提升了生活质量。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "cc6829d1e39d7314977a6a7829ef341da0ab116c71b67d5aef36db47d76b8d09",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n脑癌四级还能活多久"
+      },
+      {
+        "from": "gpt",
+        "value": "颅内肿瘤种类繁多，包括良性与恶性、原发与继发等类型，其确切病因尚不明确，可能与遗传、物理辐射等因素有关。关于“脑癌四级（即 WHO 分级中的 IV 级，通常指胶质母细胞瘤）还能活多久”的问题，需明确：癌症预后并非固定不变，早期发现并规范治疗者，部分患者可获得长期生存甚至临床治愈；但 IV 级恶性脑瘤属于高度恶性肿瘤，恶性程度极高，细胞增殖快、易浸润扩散，预后总体较差。\n\n目前，IV 级恶性脑瘤的治疗策略需根据患者的自身免疫耐受能力、肿瘤具体部位、范围及是否出现转移等个体情况，制定科学、对症的综合治疗方案。由于此类患者常伴有体质虚弱、多部位转移及免疫功能低下，治疗目标主要以控制症状、稳定病情、延长生存期及提高生活质量为主。治疗手段通常包括手术切除（尽可能全切）、放疗、化疗及靶向治疗等，部分患者可联合中医中药辅助治疗，以缓解症状、减轻痛苦、抑制肿瘤进展。\n\n值得注意的是，对于转移性肿瘤或高度恶性原发肿瘤，治疗效果相对有限，生存期受多种因素影响，包括肿瘤的具体类型（如胶质母细胞瘤）、发生部位、肿瘤大小、分子病理特征以及患者对治疗的反应等。以常见的胶质母细胞瘤为例，即便经过积极手术及综合治疗后，患者中位生存期通常在 12-18 个月左右，部分患者可生存 2-3 年或更久，但个体差异极大，无法一概而论。因此，建议患者及家属在专业医生指导下，结合具体病情制定个性化治疗计划，并重视心理支持与营养管理，以争取最佳预后。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "a9f12e23fafd5d591bad5ffdd102879e38eefb929d02b496883522b617eb6973",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n高龄腹主动脉瘤的辅助治疗有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "高龄腹主动脉瘤的辅助治疗主要包括严格控制血压，以降低动脉壁张力，延缓瘤体扩张及破裂风险。具体而言，需将收缩压维持在 120-140 mmHg 的适宜范围，同时避免血压剧烈波动，并密切监测心、肾功能以指导个体化用药。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "b0320d97c67847a463f9c715e993cec2db8b2d81b3cd86087b79f9a600e2bf5b",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n您好，最近身体不舒服，咨询一下宫颈炎有什么症状。"
+      },
+      {
+        "from": "gpt",
+        "value": "慢性宫颈炎常见的症状包括白带增多，其性状可能因感染病原菌种类、炎症范围及程度的不同而有所变化。部分患者还可能伴有腰骶部酸痛、性交痛、尿频或尿急等症状。若出现上述症状，建议及时就医，采取中西医结合的治疗方案，以避免细菌耐药并提高疗效。临床上常推荐配合使用妇科千金片（胶囊）等中药制剂，对改善宫颈炎症状效果显著。治疗需足疗程，一般以 14 天为一个疗程，病情较轻者通常需 2—3 个疗程，病情较重者可能需要 3—4 个疗程。患者应耐心配合医生完成全程治疗，切勿自行停药。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "a3fa2a291caaefca2bea82d1f0976a8755078cc4db3753833e086af25121a717",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n重症天疱疮的手术治疗有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "重症天疱疮的手术治疗主要包括自体表皮移植（如自体薄层皮片移植）以及自体外周血干细胞移植。其中，自体外周血干细胞移植作为一种新兴的辅助治疗手段，旨在通过重建免疫耐受来诱导疾病缓解，常作为难治性病例的后续治疗选择。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "f92fca149e0f370121fd7f11344f319117d372ce17e6d385ba453f6d706a05aa",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n晚期淋巴癌化疗期间什么不能吃？化疗期间身体出现浑身乏力、恶心等症状，现在处于救治阶段，该吃点什么好？"
+      },
+      {
+        "from": "gpt",
+        "value": "化疗期间，药物主要对骨髓造血功能和消化系统产生一定影响，因此饮食应以健脾和胃、补益气血、促进骨髓生成为原则。建议多食用山药、山楂、柑橘、番茄、牛肉等食物，并可适量搭配苹果、红枣、甲鱼、核桃等以增强营养。同时，可在医生指导下适当配合中药调理，以减轻化疗副作用。\n\n关于饮食禁忌，化疗期间并非绝对禁止所有食物，但应避免生冷、油腻、辛辣及难以消化的食物，以免加重胃肠负担或引发感染。若出现恶心、乏力等反应，可采取少食多餐、清淡易消化的饮食方式，并保证充足的水分摄入。\n\n需要说明的是，淋巴瘤的治疗是一个长期过程，个体差异较大，具体饮食方案需结合患者当时的血象、肝肾功能及具体治疗方案进行调整。此外，保持积极乐观的心态对治疗康复同样重要，有助于提升身体抵抗力，配合医疗团队争取最佳疗效。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "7fa97a3b69c00e5997ebddef64ed993df221573b048b7043ebf4f187a55a0f27",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n脑疝有哪些症状？我自己知道有这个毛病，已经很久了，有时候会很难受别扭，但是过一会就没事了，现在想治疗了，但不知道咋办呢。"
+      },
+      {
+        "from": "gpt",
+        "value": "脑疝是脑血管病极为凶险的并发症，约半数患者因此死亡，属于需要紧急处理的危重状况。其典型症状包括意识障碍（如嗜睡、昏迷）、瞳孔变化（如一侧或双侧瞳孔散大、对光反射消失）、呼吸节律异常、血压升高伴脉搏减慢等生命体征改变，以及肢体活动减少或消失等运动功能障碍。\n\n需要特别指出的是，您描述的“有时候很难受别扭，过一会就没事了”的情况，通常不符合脑疝的临床表现。脑疝一旦形成，病情会迅速恶化，不会自行缓解。鉴于您已确诊且症状反复，强烈建议您立即前往医院神经内科或急诊科就诊，进行头颅 CT 或 MRI 等影像学检查，以明确当前是否存在颅内高压或占位性病变，并制定针对性的治疗方案。切勿因症状暂时缓解而延误治疗时机。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "9fc6c010c305357b99d69bfc6af63e97175532eab6927a886727bc5b31fb4c62",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n生殖细胞瘤的检查项目有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "生殖细胞瘤的检查主要包括颅脑 CT 检查和颅脑 MRI 检查。其中，MRI 检查通常为首选，因其对脑内肿瘤及周围软组织的分辨率更高，有助于更清晰地显示肿瘤范围、是否突破血脑屏障以及是否存在脑膜播散等关键信息；CT 检查则可作为重要的补充手段，用于快速评估颅内占位情况。此外，还需结合血清肿瘤标志物（如 AFP、β-HCG、LDH 等）检测及影像学增强扫描等综合评估。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "92b004b864f5fea4d67939cc6f37650416842b2b18673693f64c0c51984cc6e2",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n颅颈血管病变的辅助治疗有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "颅颈血管病变的辅助治疗主要包括血管内介入治疗，具体手段涵盖可脱球囊扩张术及覆膜支架植入术。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "266d8995521f9d3c1f8d871c43de8c3d60e4db33a15d13e5c1a55760b48fae99",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n肝内实性结节是什么病"
+      },
+      {
+        "from": "gpt",
+        "value": "肝内实性结节并非单一疾病，而是一种影像学表现，其具体性质需结合临床进一步评估。根据目前信息，肝血管瘤的可能性较大。若确认为肝血管瘤，通常为良性病变，一般无需特殊治疗，对健康影响较小。为明确诊断，建议行肝脏增强 CT 检查以进一步确诊。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "2bed6c5065526d622838e453a9e05f148a82b9f825f7b04e3d3b690122634c5a",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n肠道保护的推荐药物有哪些？"
+      },
+      {
+        "from": "gpt",
+        "value": "肠道保护的推荐药物主要包括：蒙脱石散、益生菌制剂（如双歧杆菌、乳酸杆菌等）、消化酶制剂以及黏膜保护剂（如硫糖铝、瑞巴派特等）。具体用药需根据患者的肠道功能状态及临床指征，在医生指导下个体化选择。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "c72d887323354180bbd0990f559f1a76d3a0267f41e67f3872bddfbbcda9420b",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n桥本氏甲减影响寿命吗"
+      },
+      {
+        "from": "gpt",
+        "value": "桥本氏甲状腺炎（慢性淋巴细胞性甲状腺炎）是近年来发病率较高的疾病，多见于中青年女性。该病主要病理过程为自身免疫性甲状腺炎症，部分患者可进展为甲状腺功能减退（甲减）。\n\n关于寿命影响：桥本氏甲状腺炎本身通常不会直接缩短寿命。虽然若长期未治疗导致持续性甲减，可能引起机体代谢改变、器官功能受损及生活质量下降，但只要通过正规医疗干预，合理补充甲状腺激素，绝大多数患者的预期寿命与常人无异。其核心影响在于对生活质量及并发症的预防管理。\n\n需要说明的是，桥本氏甲减的病因复杂，临床上常按起病年龄分为克汀病（胎儿期或新生儿期起病）、幼年型甲减（发育前儿童期起病）及成年型甲减（成人期起病）；按病因分类则包括原发性甲减（如先天性甲状腺缺如、甲状腺破坏性治疗、合成障碍、药物抑制或浸润性损害等）、继发性甲减（TSH 降低，见于垂体病变）及周围性甲减（少见，多为遗传性受体功能障碍）。\n\n针对患者的生活管理建议如下：\n1. **饮食调整**：避免食用卷心菜、白菜、甘蓝、油菜、木薯、核桃等可能影响甲状腺功能的生食或高致甲状腺肿食物。鉴于我国人群普遍碘摄入充足，建议限制碘盐摄入，有条件者可改用无碘盐。\n2. **定期监测**：应定期复查甲状腺功能及甲状腺超声，以便及时调整治疗方案。\n3. **情绪管理**：保持情绪稳定至关重要，焦虑或压力可能加重病情。\n4. **药物治疗**：在医生指导下规范使用甲状腺激素替代治疗。关于中成药或中药调理，建议在专业医师指导下进行，切勿自行用药。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "bfbe8bafd49b56d9fb09b3e328963756a7c9bd8ce6a900334aa0b0acfc3ea8c7",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n宝宝出生 40 天发生颅内出血，医生诊断为维生素 K 缺乏。请问：\n1. 维生素 K 缺乏是否与母乳喂养有关？缺乏维生素 K 的新生儿是否可以吃母乳，还是必须改吃奶粉？\n2. 缺乏维生素 K 的新生儿可以打预防针吗？听说打预防针易导致皮肤破皮，是否会影响接种？\n3. 因担心再次怀孕时宝宝出现类似情况，想咨询相关注意事项。"
+      },
+      {
+        "from": "gpt",
+        "value": "维生素 K 缺乏与母乳喂养存在密切关系。维生素 K 缺乏症（又称获得性凝血酶原降低症），是指因维生素 K 缺乏导致依赖该维生素的凝血因子活性降低，从而引发出血倾向的疾病。其常见原因包括：孕妇孕期维生素 K 摄入不足，导致胎儿体内储备不足；或新生儿出生后 2～7 天内，因体内储存消耗、摄入不足及自身合成障碍等，引起维生素 K 缺乏。\n\n针对您宝宝 40 天大出现颅内出血且确诊为维生素 K 缺乏的情况，目前医学指南并不建议完全禁止母乳喂养。新生儿常规在出生后 24 小时内注射一次维生素 K1 针剂（肌注），即可有效预防新生儿出血症。若宝宝未按时注射或注射后仍出现缺乏，应遵医嘱进行补充治疗（如口服或注射维生素 K），而非直接改用奶粉。母乳喂养本身不会导致维生素 K 缺乏，关键在于是否接受了规范的预防性注射。\n\n关于疫苗接种，维生素 K 缺乏本身并非疫苗接种的禁忌症。只要宝宝接受了规范的维生素 K 补充治疗，凝血功能恢复正常，即可按计划接种疫苗。您提到的“打针易致使皮肤破皮”是正常现象，但预防针（如卡介苗、乙肝疫苗等）的接种部位通常经过严格消毒和无菌操作，风险极低，且对预防严重传染病至关重要，不应因过度担忧而延误接种。\n\n对于您计划再次怀孕的担忧，建议您在下次怀孕前咨询产科医生，评估自身及伴侣的维生素 K 水平，并在孕期规范补充维生素 K，以确保胎儿获得充足的储备，预防新生儿出血症的发生。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "845cf0e9826c67f5f1fd9c7d55b6fd081e33591cf2ec75700d6ccfca49658a36",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n前列腺炎缓解后能否怀孕？我先生 28 岁，之前一直有下体精索附近疼痛，医生确诊为慢性前列腺炎，目前持续服药，症状仅略微减轻。听说完全自愈需要好几年时间，但我们比较着急要孩子，想咨询这种情况是否会影响生育。"
+      },
+      {
+        "from": "gpt",
+        "value": "关于前列腺炎患者备孕的问题，需分情况讨论：若患者目前正处于急性发作期或症状明显（如疼痛剧烈、排尿困难等），建议先完成规范治疗，待症状完全缓解、炎症指标正常后再考虑备孕，以避免炎症影响精子质量或增加孕期风险。对于慢性前列腺炎，部分患者经规范治疗后症状可显著改善甚至临床治愈，此时通常不影响生育；但若症状持续存在且药物治疗效果不佳，建议先咨询泌尿外科或男科医生，评估是否需进一步调整治疗方案（如联合物理治疗、生活方式干预等），待病情稳定后再尝试怀孕。\n\n此外，日常需注意避免久坐、忌辛辣刺激饮食、规律作息及适度运动，这些措施有助于缓解症状、改善局部血液循环。同时，保持积极心态对康复至关重要，但请避免过度焦虑，以免因心理压力加重症状。最终是否适合立即备孕，应由专业医生结合具体病情、精液检查结果及治疗进展综合评估后给出个体化建议。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "95057cb113f30cb42bbf5df1ad344f047441703b0d0ea29bddb0b8c7b8e3351b",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n无肌病性皮肌炎的患病比例是多少？"
+      },
+      {
+        "from": "gpt",
+        "value": "无肌病性皮肌炎的患病比例约为 0.003% 至 0.004%。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "40bfbba66b320610d4f826112e9d56231848b5f437613efb8f92fa6cef817aa6",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n最近不知为何肚子有往下坠感，前几天在社区健康检查时被医生告知有脱肛，很忧心，想咨询救治脱肛的办法。"
+      },
+      {
+        "from": "gpt",
+        "value": "针对脱肛的治疗，首先建议进行进一步的详细检查，以明确诊断并排除痔疮等其他肛肠疾病。若确诊为脱肛，主要的治疗手段通常包括手术治疗。术后需严格遵医嘱进行换药护理，同时注意饮食调理，多饮水，增加新鲜蔬菜和水果的摄入，保持大便通畅，避免便秘及用力排便，并减少长时间蹲厕的时间，以促进伤口愈合并预防复发。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "9ab8a0b81fc09866b31d2db9a8bc7232a741dfc5380a42ba0762fc56b38c815f",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n儿童呼吸道感染的临床表现有些什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "儿童呼吸道感染的临床表现主要包括：咽部细菌分布异常、打喷嚏、咳嗽以及顽固性咳嗽。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "e98a8d3ca82c9d48953033a4c17ebd4b5da6b4ca6b1051e3e6009d81a4631d2b",
+      "_low_quality_flag": true,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": false,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n什么是血栓闭塞性脉管炎？"
+      },
+      {
+        "from": "gpt",
+        "value": "血栓闭塞性脉管炎是一种主要累及四肢中、小动脉及其分支的慢性节段性、炎症性血管病变。其典型临床表现包括患肢缺血、静息痛、间歇性跛行，受累动脉搏动减弱或消失；常伴有游走性血栓性浅表静脉炎。病情严重者，可出现肢端溃疡甚至坏疽。该病好发于青壮年男性，女性较少见，多在寒冷季节发病，病程迁延。病变通常从下肢远端（如足趾）开始，逐渐向近端（足部、小腿）发展；单独发生于上肢者罕见，若累及脑、心、肾等重要脏器则更为少见。"
+      }
+    ],
+    "meta": {
+      "source": "",
+      "input": "",
+      "_dedup_sha256": "91cfcc5f6d8049fb07e94198ecfc80c209220569860de69adc331fced4a599a7",
+      "_low_quality_flag": false,
+      "_rewritten": true,
+      "_instruction_heuristic_changed": true,
+      "_instruction_cleaned": true,
+      "_instruction_clean_mode": "llm"
+    },
+    "image": "qa_placeholder.jpg"
+  },
+  {
+    "image": "000000.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺未见 focal 实变、胸腔积液或气胸。心脏大小正常。纵隔轮廓正常。左乳区可见多发手术夹，左肋骨陈旧性骨折。\n\nImpression:\n未见急性心肺病变。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "0"
+    }
+  },
+  {
+    "image": "000001.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n肺容积偏低。双肺可见散在多发小结节，近期 CT 检查显示更为清晰。轻度肺血管淤血稳定。心脏及纵隔轮廓、肺门形态未见改变。右中裂见少量新发胸腔积液。未见提示肺炎的局灶性实变影。未见气胸。\n\nImpression:\n肺容积降低及轻度肺血管淤血未见变化。新发少量右侧胸膜腔积液。未见提示肺炎的局灶性实变影。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "1"
+    }
+  },
+  {
+    "image": "000002.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n肺容积减低，导致支气管血管纹理聚集，可见轻度肺血管充血。心脏大小临界增大。纵隔及肺门轮廓相对正常。双肺可见无数结节，左肺上野及下野更为明显，符合转移性病变表现。未见新发 focal 实变、胸腔积液或气胸，右膈肌慢性抬高再次出现。患者行右肺下叶切除术后，右胸廓内肋骨畸形符合既往术后改变。\n\nImpression:\n肺内可见多发转移瘤，可能伴轻度肺血管淤血，肺容积减低。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "2"
+    }
+  },
+  {
+    "image": "000003.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n与既往检查相比，新发轻度肺水肿伴少量双侧胸腔积液。肺容积减小，血管纹理受压。未见气胸。严重心脏扩大可能因肺容积减少及患者体位而加重。\n\nImpression:\n提示：轻度肺水肿伴持续少量双侧胸腔积液。心脏增大可能因肺容积减少及体位因素而加重。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "3"
+    }
+  },
+  {
+    "image": "000004.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n右肋膈角未显示。双肺其余部分清晰。心脏大小处于正常上限。肠管位于膈肌水平以下。未见气胸。\n\nImpression:\n膈肌下方可见肠管导管走行。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "4"
+    }
+  },
+  {
+    "image": "000005.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胃管盘曲于胃内。右侧 PICC 导管尖端位于下腔静脉内，位置较前无变化。心脏大小正常。双肺下野见轻度斑片状影，考虑为肺不张，与当日同日胸部 X 线片相比未见明显变化。未见气胸或胸腔积液。\n\nImpression:\n鼻胃管位置预期正常，管端呈卷曲状位于胃内。较同日早行胸部 X 线片未见其他间隔性改变。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "5"
+    }
+  },
+  {
+    "image": "000006.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\nPortable 胸片显示双肺充气尚可，未见 focal 实变、胸腔积液或气胸；心脏大小正常，主动脉走行迂曲。\n\nImpression:\n未见急性胸部病变。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "6"
+    }
+  },
+  {
+    "image": "000007.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺基底见相对密度增高影，考虑为体位所致软组织重叠，而非实变或胸腔积液，侧位片有助于鉴别；未见大量胸腔积液或气胸。心脏及纵隔轮廓未见异常。未见明显肺水肿。\n\nImpression:\n双肺下野见相对密度增高影，考虑为胸壁软组织重叠所致，而非肺实变，建议行侧位片以资鉴别。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "7"
+    }
+  },
+  {
+    "image": "000008.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n患者既往行正中开胸术及冠状动脉旁路移植术。心脏大小正常。纵隔及肺门轮廓未见明显改变。肺血管纹理正常。未见 focal 实变、胸腔积液或气胸。未见急性骨性异常。\n\nImpression:\n未见急性心肺异常。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "8"
+    }
+  },
+  {
+    "image": "000009.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n新发左中量胸腔积液，伴左侧基底斑片状阴影，考虑为压迫性肺不张。未见气胸。心脏及纵隔轮廓无新发异常。胸骨正中切口钢丝及纵隔夹位置正常。\n\nImpression:\n左肺基底见新发中度胸腔积液伴邻近肺不张。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "9"
+    }
+  },
+  {
+    "image": "000010.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n仅获得一张便携式半卧位胸部 X 线片。较前一日检查，左侧少量及右侧中量层状胸腔积液均有增大。近期 CT 所见右中叶肺炎在 X 线上未清晰显示，但右心缘模糊。左侧基底肺不张稳定。未见新发局灶性实变或气胸。肺门影仍模糊。左侧 PICC 线尖端仍位于上腔静脉内。\n\nImpression:\n较前复查，双侧胸腔积液较前增多，右侧为中等至大量，左侧为少量；右侧肺底肺炎持续存在。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "10"
+    }
+  },
+  {
+    "image": "000011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n仅获得一张便携式半直立位胸部 X 线片。较近期 CT 所见，中下叶肺炎无明显变化。未见肺水肿加重、新发实变或气胸。左侧层状胸腔积液较前略增大。心脏及纵隔轮廓未见明显改变。\n\nImpression:\n右中叶及右下肺肺炎未见明显变化，左侧胸腔积液量较前略有增加。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "11"
+    }
+  },
+  {
+    "image": "000012.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部床边 AP 位 X 线片显示，与近期检查相比，轻度肺水肿呈改善趋势。右侧中量胸腔积液稳定，左侧少量胸腔积液亦较前减小。除双下肺持续存在肺不张外，双肺余部清晰。肺门及心脏纵隔轮廓正常。未见气胸。左侧 PICC 导管尖端位于上腔静脉中段。Dobbhoff 管尖端位于胃内，另一肠内营养管亦进入胃内并向下方延伸超出视野范围。\n\nImpression:\n与最近一次检查相比，轻度肺水肿有所改善，左侧少量胸腔积液减少；右侧中量胸腔积液及双下肺不张保持稳定。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "12"
+    }
+  },
+  {
+    "image": "000013.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部单片便携式 X 线片与既往检查对比。可见肠内导管，其尖端位于视野下方。可见左侧 PICC 导管，但尖端显示不清。双肺基底可见持续积液，右胸可见猪尾巴引流管投影于下胸部。右肺尖可见可能的气胸。肺上部未见实变。心脏大小形态正常。骨性及软组织结构未见异常。\n\nImpression:\n与双肺胸腔积液及右侧胸腔置入猪尾巴引流管相比，未见明显间隔变化；右侧肺尖可能存在少量气胸。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "13"
+    }
+  },
+  {
+    "image": "000014.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n单张便携式胸部 X 线片示：已拔除气管插管及胃管。右颈内静脉导管尖端终止于右心房。右侧基底可见右侧胸腔引流管。见右侧微量胸腔积液及左侧少量胸腔积液。心脏轮廓未见明显改变。未见肺实变、气胸或结节。左侧 PICC 线尖端终止于左头臂静脉。\n\nImpression:\n双肺少量胸腔积液，拔管后外观未见变化。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "14"
+    }
+  },
+  {
+    "image": "000015.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部正位仰卧位 X 线片示：心脏大小及心膈角形态正常。右胸可见片状致密影，符合中至大量层状胸腔积液表现；左侧亦见少量胸腔积液。未见气胸。右腋静脉置入 PICC 线尖端位于腋窝。Dobbhoff 喂养管及胃管均越过膈肌进入腹腔，胃管侧孔位于食管远端。\n\nImpression:\n双肺可见胸腔积液，右侧重于左侧；不能排除合并肺实变可能。建议调整体位复查。鼻胃管尖端位于胃内，侧孔位于食管远端。右侧 PICC 导管尖端位于腋窝。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "15"
+    }
+  },
+  {
+    "image": "000016.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部单侧前后位仰卧位便携式 X 线检查显示，右胸上部可见链状缝线，既往置入的右侧输液港已移除。心脏及纵隔轮廓稳定。未见明确局灶性实变。双肺下野可见双侧圆形致密影，左侧及右侧投影位置提示可能位于患者体外，考虑为乳头阴影，最可能为乳头阴影。未见与近期既往 PET-CT 检查中肺底相应位置的明确肺结节。未见胸腔积液或气胸。\n\nImpression:\n未见急性心肺病变。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "16"
+    }
+  },
+  {
+    "image": "000017.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n左侧 PICC 导管位置未见改变。心脏及纵隔轮廓与既往检查相比无变化。未见肺水肿征象。未见胸腔积液。未见气胸。右肺上叶可见手术链状缝线，与既往手术一致。右肺上叶区再次显示密度增高影，考虑与近期胸部 CT 所示的实变纤维化区域相符。\n\nImpression:\n未见肺炎、肺水肿或胸腔积液征象。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "17"
+    }
+  },
+  {
+    "image": "000018.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部正位片显示双侧膈下可见游离气体，肺容积减低，血管蒂增宽，气管轻度向右移位，可能为体位所致。双肺多灶性模糊影与既往相似，符合结节病病史，但不能排除合并感染。未见气胸或大量胸腔积液。右肺中野可见链状缝线，与既往一致。\n\nImpression:\n腹腔积气。血管蒂增宽可能与肺容积减少及血容量状态有关。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "18"
+    }
+  },
+  {
+    "image": "000019.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n检查期间，先前可见的肠内管已移除。胃区可见带重量的新置入肠内管。右侧中心静脉导管位置未变。右侧输尿管支架显示不完整。其余影像部分未针对胸腹部进行优化。\n\nImpression:\nDobhoff 管末端位于胃内。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "19"
+    }
+  },
+  {
+    "image": "000020.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n肺实质充气良好，影像大体清晰，但因大量胸腔积液导致评估不完全。Dobhoff 管位置未见改变，尖端位于胃中部。右侧 Port-a-cath 位置未见改变。\n\nImpression:\n双侧大量胸腔积液，较前显著增多。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "20"
+    }
+  },
+  {
+    "image": "000021.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n右胸腔积液中度，考虑患者体位变化后可能未变；左侧胸腔积液少量且较前增多。双下肺明显肺不张。心脏增大，伴轻度肺水肿，较前未变。胃管尖端位于胃体，位置预期内。右侧 Port-a-cath 导管尖端位于右心房。\n\nImpression:\n气管插管位置适当。右肺中量、左肺少量胸腔积液。轻度肺水肿，较前无变化。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "21"
+    }
+  },
+  {
+    "image": "000022.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n右侧 Port-A-Cath 导管尖端终止于右心房近端。心脏影中度增大，较前无变化。纵隔及肺门轮廓相似。肺血管纹理正常。双肺清晰，未见 focal 实变、胸腔积液或气胸。腹部右上象限可见部分成像的猪尾巴导管。未见急性骨性异常。\n\nImpression:\n未见急性心肺异常。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "22"
+    }
+  },
+  {
+    "image": "000023.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸腔引流管位置与之前相似。右侧胸腔积液较前减少，现呈少量，但沿小叶间裂仍有积液，右肺下叶实变持续存在。左侧中至大量胸腔积液及左肺显著实变未见变化。喂养管已拔除。鼻胃管于胃区呈盘绕状。\n\nImpression:\n右侧病灶较前缩小，左侧肺部影像稳定。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "23"
+    }
+  },
+  {
+    "image": "000024.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n再次见双侧中至大量胸腔积液，右侧可能重于左侧；鉴于积液分层，详细评估受限，但怀疑存在叠加的肺水肿较前略有改善。血管充盈度较前减少。心影因积液遮挡无法评估。\n\nImpression:\n双肺可见少量至大量胸腔积液，右侧重于左侧；较前检查，肺水肿程度可能略有改善，但详细评估受限。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "24"
+    }
+  },
+  {
+    "image": "000025.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n鉴于双侧中至大量胸腔积液的存在，心脏大小难以准确评估，但影像显示心脏至少中度增大。纵隔轮廓大体正常。肺门区模糊伴血管影不清及弥漫性肺泡浸润影，符合中度肺水肿表现。双肺基底可见压迫性肺不张。未见气胸。胸椎可见多节段中度退行性改变。\n\nImpression:\n中度肺水肿，伴双肺中至大量胸腔积液及双下肺不张。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "25"
+    }
+  },
+  {
+    "image": "000026.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双侧胸腔积液，下肺叶体积缩小，下肺叶致密影，符合体积缩小、实变及积液并存的表现。心脏继续呈中度增大。可见轻度血管再分布。\n\nImpression:\n心功能不全，较前检查稍差。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "26"
+    }
+  },
+  {
+    "image": "000027.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n患者既往行正中开胸术及冠状动脉旁路移植术。可见左侧植入式心脏复律除颤器（AICD），单根电极导线终止于右心室。心脏大小正常。纵隔及肺门轮廓正常。双肺清晰，未见胸腔积液或气胸。未见急性骨性异常。\n\nImpression:\n未见急性心肺异常。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "27"
+    }
+  },
+  {
+    "image": "000028.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n管状物及引流管大体未见改变。因穿透不足，无法追踪鼻胃管至最下纵隔。心脏及纵隔轮廓未见改变。双肺广泛存在的间质性及肺泡性浸润影较前更为融合。难以完全排除少量胸腔积液。未见气胸。\n\nImpression:\n双肺斑片状影进展，现更为融合，左侧尤为明显，提示肺泡水肿进展；在合适的临床背景下，难以排除合并感染性浸润。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "28"
+    }
+  },
+  {
+    "image": "000029.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胃管经膈肌下行，管尖超出视野。肺容积减低。双肺基底部分叶不张较前无变化。较前检查，血管淤血及轻度肺水肿略有加重。未见提示肺炎的实变影。未见胸腔积液或气胸。纵隔轮廓增宽较前无变化，考虑与既往 CT 所见纵隔脂肪增多有关。心脏影较前略大。\n\nImpression:\n血管淤血及轻度肺水肿较前稍加重，心脏影略增大。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "29"
+    }
+  },
+  {
+    "image": "000030.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n与既往检查相比，右侧颈内静脉导管可能已更换，其尖端覆盖于上腔静脉近端；气管插管、左侧颈内静脉导管及鼻胃管位置未见改变。未见气胸。右肺门区可见少量新发的模糊片状密度增高影。除上述发现外，未见显著间隔性改变。心脏及纵隔轮廓影仍显突出，较前无变化。肺上叶血管纹理重分布及弥漫性血管模糊较前相似，考虑与拍摄技术因素有关。心后区密度增高伴气支气管征亦无变化。未见明显胸腔积液。\n\nImpression:\n右肺门区可见新发细微融合状密度增高影，可能与心力衰竭表现轻微进展有关；其余未见显著间隔变化。建议随访影像时关注该区域。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "30"
+    }
+  },
+  {
+    "image": "000031.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n再次见及多发结节状影，符合患者转移性疾病表现。此外，肺水肿较前加重，右中下叶浸润影亦加重，在相应临床背景下可提示肺炎。右侧胸腔积液量亦较前增多。\n\nImpression:\n右肺下叶为主的胸腔积液、肺水肿及可能存在的肺炎呈加重趋势。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "31"
+    }
+  },
+  {
+    "image": "000032.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺清晰，未见浸润影。心脏及纵隔轮廓正常。右后肋膈角略钝，考虑少量胸腔积液或轻度胸膜增厚。骨性胸廓未见明显异常。\n\nImpression:\n右 CP 角钝化，余胸部未见异常。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "32"
+    }
+  },
+  {
+    "image": "000033.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部半直立位片显示右肺尖存在少量气胸，较四小时前检查时缩小；未见明显左侧气胸。胸壁皮下气肿无变化。肺容积偏低。未见 focal 实变或胸腔积液。肺门及纵隔轮廓未见异常。心脏大小正常。右膈下可见微量游离气体。\n\nImpression:\n与四小时前检查相比，右侧尖肺气胸较前减少，现呈小量。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "33"
+    }
+  },
+  {
+    "image": "000034.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胃内可见两根肠内管管端。心脏大小处于临界增大。纵隔及肺门轮廓相似。见上肺区血管重新分布，提示轻度肺血管淤血。此外，右侧可见持续少量胸腔积液伴邻近右基底斑片状阴影，考虑为肺不张。左肺大体清晰，但左侧肋膈角超出视野。未见大量气胸。未见急性骨性异常。\n\nImpression:\n印象：右侧少量胸腔积液伴右基底斑片状密度增高影，考虑肺不张可能；轻度肺血管充血；本仰卧位有限检查未见明显气胸。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "34"
+    }
+  },
+  {
+    "image": "000035.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n仅提供单张便携式胸部 X 线片。鼻胃管经膈肌下行并终止于胃内。右锁骨下静脉置管尖端位于上腔静脉中段。右肺底见板状肺不张，较前片复现。心后及左肺底片状密度影较前片相似，可能为胸腔积液合并肺不张。心脏仍呈增大。未见气胸。所摄上腹部未见异常。骨骼完整。\n\nImpression:\n胃管位于膈肌以下胃内。右侧基底及心后区持续存在肺不张，左侧胸腔积液可能性大。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "35"
+    }
+  },
+  {
+    "image": "000036.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n右 PICC 线再次可见，尖端终止于上腔静脉中段。心影及纵隔、肺门轮廓稳定。左基底斑片影较前改善，少量左侧胸腔积液持续存在，未见右侧胸腔积液及气胸。右基底见新发斑片影，考虑肺不张，但肺炎不能排除。\n\nImpression:\n右肺基底见新发片状影，临床背景下考虑肺炎可能；左肺基底片状影较前改善，伴少量左侧胸腔积液持续存在。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "36"
+    }
+  },
+  {
+    "image": "000037.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n影像所见：未显示肺尖。鼻胃管末端位于胃窦部，位置恰当。双肺野清晰，心脏及纵隔轮廓、肺门正常。未见胸腔积液及气胸。部分显示的腹部肠气分布正常。\n\nImpression:\n胃管位置恰当。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "37"
+    }
+  },
+  {
+    "image": "000038.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n心脏轻度至中度增大较前稳定，左侧基底旁肺不张较前减少。右肺野清晰，未见气胸征象。胸腰段向右凸侧弯畸形未见变化。\n\nImpression:\n较前检查，左侧胸腔积液量较前减少，伴左侧基底肺不张，未见气胸征象。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "38"
+    }
+  },
+  {
+    "image": "000039.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺纹理清晰，未见异常密度影，未见气胸。心脏大小及纵隔形态在技术范围内。未见可疑骨性病变。右锁骨下静脉导管在位，位置与既往一致，尖端终止于上腔静脉水平。\n\nImpression:\n检查未见异常。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "39"
+    }
+  },
+  {
+    "image": "000040.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺清晰，未见 focal 实变。未见胸腔积液或气胸。心脏及纵隔轮廓未见异常。主动脉结可见钙化。\n\nImpression:\n未见急性心肺病变。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "40"
+    }
+  },
+  {
+    "image": "000041.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n气管导管已拔除。鼻胃管位置适当，管身经膈肌下方，管尖及侧孔投影于胃区。右锁骨下静脉置管，尖端终止于下腔静脉。双肺其余部分未见异常。心脏大小正常。纵隔及肺门轮廓正常。肺血管纹理正常。未见气胸或胸腔积液。\n\nImpression:\n气管插管已拔除。鼻胃管及右侧 PICC 线位置恰当。双侧少量胸腔积液较前明显吸收。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "41"
+    }
+  },
+  {
+    "image": "000042.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n气管导管可见，其尖端位于右主支气管内。右肺基底区片状模糊影，考虑肺不张可能。左肺野未见明显异常。心脏及纵隔轮廓大小形态正常。未见急性骨性异常。胸腰段呈 S 形脊柱侧弯。\n\nImpression:\n气管插管位于右主支气管。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "42"
+    }
+  },
+  {
+    "image": "000043.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n肠内管尖端位于胃近端，较前新近出现；右基底斑片状影较前明显，伴右侧胸腔积液；余未见明显异常。\n\nImpression:\n胃管尖端位于胃近端。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "43"
+    }
+  },
+  {
+    "image": "000044.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺门及下肺区斑片状影较前显著加重，呈支气管血管束分布，考虑肺炎加重、吸入性肺炎或肺水肿可能；右膈肌抬高较前稳定；心影大小临界；胸腰段可见侧弯。\n\nImpression:\n显著进展，考虑肺炎加重、误吸或肺水肿。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "44"
+    }
+  },
+  {
+    "image": "000045.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n与既往胸部 X 线片相比，可见血管充血加重，伴新发轻度间质水肿；肺容积减小。双肺基底斑片影较前加重。右侧少量胸腔积液持续存在，左侧未见明显积液。心脏大小处于正常上限，较前增大。气管内导管位置标准。右锁骨下静脉置管尖端位于上腔静脉与右心房交界处。肠内营养管越过膈肌，尖端位于胃近端。胸椎上段呈右凸、下段呈左凸的侧弯畸形。\n\nImpression:\n印象：中央血管淤血伴新发轻度肺水肿；双下肺斑片状影加重，考虑肺不张加重，亦需结合临床排除吸入性肺炎；右侧少量胸腔积液增多；心脏增大，现达上限正常范围。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "45"
+    }
+  },
+  {
+    "image": "000046.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺基底见轻度肺不张，未见明确局灶性实变。未见明显胸腔积液或气胸征象。心脏轮廓呈上限值至轻度增大。纵隔轮廓未见异常。肺门轻度突出，提示肺血管充血，未见明显肺水肿。\n\nImpression:\n双肺门轻度突出，提示肺血管充血，未见明显肺水肿；双肺基底见条索状阴影，考虑肺不张，未见明确实变灶。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "46"
+    }
+  },
+  {
+    "image": "000047.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n气管插管、胃管及右侧颈内静脉中心静脉导管位置未见改变。心脏及纵隔轮廓大致稳定。左下肺持续存在体积减少，右肺仍呈过度充气，但左肺基底通气较前有所改善。\n\nImpression:\n未见肺水肿，未见气胸。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "47"
+    }
+  },
+  {
+    "image": "000048.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\nDobhoff 管尖端投影于胃区，较前检查略向前移位。左下肺见局灶性 opacity 伴气支气管征，较前加重但总体相似，提示吸入性病变。双肺仍呈过度充气。右肺清晰。左胸侧线性透亮影考虑为皮下积气。未见胸腔积液、气胸或肺水肿。心脏大小正常。纵隔轮廓未见改变。左膈肌轻度抬高，考虑为左上腹肠管气胀伴部分肺不张所致，较前无变化。前颈固定内固定物未见改变。\n\nImpression:\nDobhoff 管尖端位于胃体，较前次检查位置略偏头侧；左下叶可见吸积。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "48"
+    }
+  },
+  {
+    "image": "000049.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n气管切开管投影于上纵隔。较前出现右肺下叶斑片状影，考虑肺炎可能。左肺底残留密度较前稍减，但仍需考虑持续感染或误吸可能。未见明显胸腔积液。心影及纵隔形态稳定。右侧颈内静脉置管已拔除。\n\nImpression:\n右肺下叶出现新发实变，考虑肺炎可能；左肺基底持续存在但较前减弱的片状密度影，可能代表残留性肺炎或误吸。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "49"
+    }
+  },
+  {
+    "image": "000050.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n右肺内侧片状影持续存在，考虑肺炎可能；左肺基底见少量片状影，考虑肺不张。气管切开管位置稳定。心脏大小未见明显改变。未见气胸或肺水肿。见一明显线状影，其后方血管影延续，符合皮肤皱褶表现。\n\nImpression:\n右侧内侧片状影持续存在，提示肺炎可能。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "50"
+    }
+  },
+  {
+    "image": "000051.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n左下肺肺炎在近期胸部 CT 上显示更为明显，程度严重；左肺基底见肺不张。右肺基底先前所见条索状影，考虑肺不张，较前改善。心脏、纵隔及肺门轮廓未见异常。未见气胸或胸腔积液。\n\nImpression:\n左下肺肺炎在胸部 CT 上显示更为清晰。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "51"
+    }
+  },
+  {
+    "image": "000052.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部单片立位（或卧位）X 线片与既往检查对比。双下肺见新发斑片状影，结合分布特点考虑感染可能，亦需排除吸入性肺炎。既往右侧上肺斑片状影基本吸收，部分被重叠铅遮挡。心脏影增大但形态稳定。骨结构及软组织未见异常。左侧胸廓入口可见手术夹。\n\nImpression:\n双肺下叶斑片状影，在临床背景下考虑为肺炎；亦需结合分布特点排除吸入性肺炎可能。建议结合临床情况评估，治疗结束后复查以确认吸收情况。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "52"
+    }
+  },
+  {
+    "image": "000053.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n心脏大小处于正常上限。纵隔及肺门轮廓正常。双肺除双下肺条索状线性不张及陈旧性瘢痕外，未见其他异常。\n\nImpression:\n双肺基底见条索状影，考虑肺不张或陈旧性瘢痕，未见其他异常。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "53"
+    }
+  },
+  {
+    "image": "000054.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部获得单张便携式前后位半立位影像。心脏轻度增大。主动脉弓可见钙化。气管向右偏斜，考虑与甲状腺肿大有关。双肺可见弥漫性斑片状影，呈肺门分布，下叶更为显著，符合中重度肺水肿表现。同时可见双侧中量胸腔积液。肺水肿程度限制了对局灶性实变的评估。未见气胸。\n\nImpression:\n中度至重度肺水肿及双侧中量胸腔积液。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "54"
+    }
+  },
+  {
+    "image": "000055.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺可见少量胸腔积液，较前减少；肺血管重分布持续存在，伴中度至重度心脏扩大。\n\nImpression:\n肺水肿持续存在，但全身液体状态有所改善。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "55"
+    }
+  },
+  {
+    "image": "000056.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部单侧前后位立位便携位 X 线片示：较前放置左侧起搏器，其电极导线延伸至右心室预期位置及冠状静脉窦，另见一导线可能延伸至右心室，但当前影像显示不清。右下胸腔见片状密度增高影，考虑为肺底积液伴其上肺不张所致，但不能排除肺实变；亦可见右膈肌抬高可能。若患者体位允许，建议行正位及侧位片以进一步评估。肺门影增粗、边缘模糊。心脏轮廓仍呈增大。患者既往行正中开胸手术。\n\nImpression:\n心影增大伴肺门充血及肺血管淤血，可见于心力衰竭；右下肺野片状密度增高影，考虑为胸腔积液伴肺不张及/或实变，并见右膈肌抬高；如患者条件允许，行正位及侧位胸片有助于进一步评估。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "56"
+    }
+  },
+  {
+    "image": "000057.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n便携式前后位胸部 X 线片显示右侧大量胸腔积液伴相应基底肺不张，不能排除合并实变。除上述改变外，较前无明显变化。左侧胸壁起搏器导线位置稳定。未见气胸及肺水肿。因肺容积低及前后位投照，心影大小评估受限。\n\nImpression:\n右胸腔积液增大，未见肺水肿。建议行正位及侧位胸部 X 线检查。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "57"
+    }
+  },
+  {
+    "image": "000058.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n已拔除气管插管、鼻胃管及临时起搏器。已植入左侧双腔心脏起搏器，一电极尖端位于右心房，另一电极尖端位于右心室。人工主动脉瓣形态未见明显改变。双肺容积减低，双下肺见中度肺不张。未见气胸、肺实变、肺水肿或胸腔积液。心影及纵隔轮廓术后改变稳定。脊柱侧弯稳定。右侧导管鞘位置未见改变，尖端位于上腔静脉近端。\n\nImpression:\n右心房及右心室可见起搏器电极，未见气胸。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "58"
+    }
+  },
+  {
+    "image": "000059.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n左肺底见新发局灶性影伴左膈肌抬高。双肺上叶为主的肺血管纹理弥漫性增粗及间质纹理增粗，考虑肺水肿可能。见少量双侧胸腔积液。未见气胸。因肺实质异常，心脏轮廓难以评估。可见胸骨正中切口钢丝。\n\nImpression:\n左下肺区伴左膈肌抬高之片状影，结合临床考虑为肺不张及/或肺炎；心脏增大，双肺少量胸腔积液，双肺间质纹理增多伴上肺血管影增粗，符合肺水肿表现。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "59"
+    }
+  },
+  {
+    "image": "000060.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n心脏轻度增大，肺血管纹理轻度再分布，未见局灶性浸润或胸腔积液。\n\nImpression:\n未见浸润或积液。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "60"
+    }
+  },
+  {
+    "image": "000061.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸廓左侧可见手术夹，系术后清创及开胸术后遗留；胸壁软组织内见引流管。左侧胸腔引流管在位，较昨日 CT 所见积液量减少。左肺内血管纹理增粗，考虑再扩张性肺水肿所致。主动脉弓上方见层状积液，较既往 CT 更清晰。未见气胸。心脏大小正常。右肺野清晰。\n\nImpression:\n左侧胸腔留置猪尾巴引流管，见少量残余胸腔积液，未见气胸。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "61"
+    }
+  },
+  {
+    "image": "000062.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n已拔除胸腔引流管、气管插管、Swan-Ganz 导管及鼻胃管。左肺尖区现见积液。双肺可见新发胸腔积液伴双下肺不张。左主肺动脉上方区域见近期手术部位稳定存在的片状影。心脏大小正常。\n\nImpression:\n新发双侧胸腔积液伴双下肺不张。左侧肺尖区见胸腔引流管拔除后积液。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "62"
+    }
+  },
+  {
+    "image": "000063.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n心脏、纵隔及肺门轮廓正常。肺容积降低。未见肺内实变、胸腔积液或气胸。未见急性骨性异常。膈下未见游离气体。\n\nImpression:\n未见急性心肺异常，膈下未见游离气体。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "63"
+    }
+  },
+  {
+    "image": "000064.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n既往行胸骨正中切口及二尖瓣修复术。未见肺水肿。右肺下叶上叶段再次显示不对称结节状密度增高影，结合广泛肺栓塞病史，考虑肺梗死可能。右侧少量胸腔积液。心脏轻度增大。未见气胸。\n\nImpression:\n未见肺水肿。右中下叶上段不对称片状影，考虑肺梗死可能。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "64"
+    }
+  },
+  {
+    "image": "000065.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n心脏轻度增大，较前稳定。纵隔及胸膜未见异常。轻度肺水肿，较前稳定。轻度左下肺叶不张持续存在。未见 focal 实变或气胸。\n\nImpression:\n稳定轻度肺水肿及中度心脏扩大。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "65"
+    }
+  },
+  {
+    "image": "000066.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胃管内管端位于胃中部。左侧 PICC 线尖端位于腔静脉右心房交界处。人工心脏瓣膜置换术后。左下肺实变稳定。考虑左侧少量胸腔积液，稳定。左舌叶密度增高影，考虑肺不张或浸润。心影大小、肺血管纹理边缘，稳定。右侧肋膈角显示不清。肠管扩张。\n\nImpression:\n喂养管尖端位于胃中部。左舌叶肺不张或浸润。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "66"
+    }
+  },
+  {
+    "image": "000067.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n右侧 PICC 导管尖端位于下腔静脉内，较前无变化。双肺容积持续降低，双肺基底斑片状影可能系肺容积降低所致。右膈肌持续抬高。心脏大小正常。纵隔及肺门轮廓未见异常。\n\nImpression:\n右侧 PICC 线位置较前次影像未见改变，尖端位于下腔静脉内。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "67"
+    }
+  },
+  {
+    "image": "000068.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n右侧 PICC 导管尖端终止于上腔静脉与头臂静脉交界处，未见气胸征象。肺容积偏低。右肺底轻度密度增高影，考虑为肺不张或吸入所致。心脏及纵隔轮廓未见异常。可见中线气管切开。\n\nImpression:\n右侧 PICC 导管尖端终止于上腔静脉与头臂静脉交界处，未见气胸征象。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "68"
+    }
+  },
+  {
+    "image": "000069.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n气管切开套管在位。吸气量偏低。双肺基底见片状密度影，右基底稍浓密，左基底通气稍改善。未见明显心力衰竭征象。未见明显胸腔积液。未见气胸。双上臂近端肱骨可见显著斑片状骨质疏松。\n\nImpression:\n双肺基底见片状影，总体较前相似，左侧基底可见可能轻微改善。双肱骨可见斑片状骨密度减低，患者是否存在骨质疏松待进一步评估。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "69"
+    }
+  },
+  {
+    "image": "000070.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部便携式半立位 X 线片显示肺容积降低，导致支气管血管影聚集。双下肺可见肺不张。心脏、纵隔及肺门轮廓未见明显改变。未见气胸、胸腔积液或肺实变征象，亦无肺水肿表现。\n\nImpression:\n双肺基底处见条索状阴影，考虑肺不张；未见肺水肿征象。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "70"
+    }
+  },
+  {
+    "image": "000071.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺清晰，未见 focal 实变；未见胸腔积液或气胸。心影及纵隔轮廓未见异常。未见肺水肿。\n\nImpression:\n未见急性心肺病变。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "71"
+    }
+  },
+  {
+    "image": "000072.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n心脏、纵隔及肺门轮廓较前无变化，仍存在轻度心脏增大。在考虑旋转及脊柱侧弯因素后，心脏、纵隔及肺门轮廓可能仍无变化。左膈肌轻度相对抬高，与既往相似。未见明确胸腔积液或气胸。双肺纹理清晰。右锁骨下静脉置入中心静脉导管（PICC）尖端位于下腔静脉内。\n\nImpression:\nPICC 导管尖端终止于下腔静脉上段，未见急性病变征象。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "72"
+    }
+  },
+  {
+    "image": "000073.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n患者仍留置气管插管。一根鼻胃管进入胃内，其远端走行未完全显示。右颈内静脉导管尖端终止于上腔静脉 - 右心房交界处。左肺上叶出现新的局灶性密度增高影，呈几何形态，考虑为肺不张，但不能排除新发肺炎的可能。左心后区见持续存在的致密广泛实变伴气支气管征，可能合并胸腔积液，较前无明显变化。本次检查未见右侧胸腔积液，可能系真实减少或体位差异所致。\n\nImpression:\n左肺上叶新发片状影，考虑肺不张可能性大，但需排除新发感染，建议短期复查胸部影像以协助鉴别，若临床存在感染疑虑尤有必要；心后区广泛致密影持续存在，多考虑肺不张，伴胸腔积液。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "73"
+    }
+  },
+  {
+    "image": "000074.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n肠内管沿正常路径下行至食管远端，管端超出视野；右颈静脉置管尖端位于上腔静脉下段。考虑患者体位变动因素，双肺大体未见明显变化，可见轻度间质水肿，未见新发局灶性实变。双侧少量胸腔积液可能，较前无变化。未见气胸。\n\nImpression:\n轻度间质性肺水肿。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "74"
+    }
+  },
+  {
+    "image": "000075.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n较前胸部 X 线片，可见新置入肠内管，其管身至少延伸至胃，但远端尖端超出图像下缘。左侧见一中等量胸腔积液，较前稍加重；右侧亦见少量胸腔积液。肺血管纹理增粗，伴轻度肺水肿。未见气胸征象。既往所见腹腔游离气体已消失。心脏轻度增大，较前无变化。未见急性骨性异常。\n\nImpression:\n间隔期小气腹吸收。左侧胸腔积液加重。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "75"
+    }
+  },
+  {
+    "image": "000076.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n右颈内静脉置管尖端位于下腔静脉低段。肠管沿未受累路径下行，其远端超出视野。心脏轻度增大，较前无变化。右肺下叶新发轻度间质水肿。左肺大体清亮，充气较前改善。未见气胸。\n\nImpression:\n新发轻度右肺下叶间质水肿。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "76"
+    }
+  },
+  {
+    "image": "000077.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\nAP 位单片便携式胸部 X 线片显示 Dobhoff 管尖端位于胃腔中部。较前胸部 X 线片相比，左侧肺底 opacity 加重，考虑为胸腔积液增多及左下肺叶不张所致；在合适的临床背景下应考虑肺炎可能。右肺野清晰，未见实变、结节或胸腔积液。未见气胸。心脏大小因左侧胸腔积液部分遮挡，但大致在正常范围内。\n\nImpression:\n多布霍夫管位置正确，尖端位于胃腔中部。较前片左侧肺底塌陷及胸腔积液范围增大，考虑合并肺炎。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "77"
+    }
+  },
+  {
+    "image": "000078.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n心脏显著增大较前稳定，纵隔增宽及血管充血明显改善，未见明显气胸，双侧少量胸腔积液未见变化，右侧颈内静脉导管尖端位置不变，双侧胸腔引流管在位。\n\nImpression:\n肺血管淤血已吸收，双侧少量胸腔积液稳定，纵隔增宽改善。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "78"
+    }
+  },
+  {
+    "image": "000079.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺低充气，伴肺纹理聚集、轻度血管充血及双下肺不张。心后区见片状密度增高影。新发左侧少量胸腔积液，未见右侧胸腔积液。心脏大小可能因肺容积减少及体位因素而显大。纵隔轮廓及肺门未见异常。右颈内静脉置管尖端位于下腔静脉内。\n\nImpression:\n右颈内静脉置管尖端位于下腔静脉，轻度血管充血。新发心后小片状影伴少量左侧胸腔积液，在相应临床背景下提示肺炎可能。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "79"
+    }
+  },
+  {
+    "image": "000080.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n左肺下叶见片状高密度影，伴左肺容积减少，提示吸入性病变可能；右肺清晰；心脏大小未见明显改变；未见气胸。\n\nImpression:\n左下肺斑片状影，考虑吸入性肺炎可能。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "80"
+    }
+  },
+  {
+    "image": "000081.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n心脏大小处于正常上限。轻度肺水肿较前无明显变化。双肺基底部分叶不张，右侧较前增大，左侧较前略有改善。右颈内静脉导管尖端位于上腔静脉与右心房交界处。未见气胸或胸腔积液。\n\nImpression:\n轻度肺水肿"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "81"
+    }
+  },
+  {
+    "image": "000082.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺充气良好，心后区见少许肺不张，未见肺水肿、胸腔积液或气胸。心脏大小、纵隔形态及肺门影未见异常。\n\nImpression:\n未见肺水肿，心后区见肺不张。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "82"
+    }
+  },
+  {
+    "image": "000083.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n右肺底见斑片状条索状影，考虑肺不张可能；未见明确实变、胸腔积液或气胸。心影及纵隔形态稳定，胸主动脉见高密度钙化。右胸壁可见起搏器，电极导线终止于右心房及右心室。左侧第四后肋骨折考虑非急性。\n\nImpression:\n右基底见条索状影，考虑肺不张；未见明确吸入性改变或局灶性实变。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "83"
+    }
+  },
+  {
+    "image": "000084.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n可见胸骨切开术后改变。右颈内静脉中心静脉导管尖端位于下腔静脉内。呼吸非常浅。左侧胸腔引流管已拔除，未见气胸。左侧肺底斑片影较前轻度改善，考虑合并少量胸腔积液，较前改善。右侧肺底斑片影较前加重，考虑肺不张。\n\nImpression:\n左侧基底斑片影较前轻度改善，右侧基底斑片影较前轻度加重。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "84"
+    }
+  },
+  {
+    "image": "000085.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胸部 AP 仰卧位片示：可见创伤板。左侧已置入猪尾巴式胸腔引流管，管尖投影于左肺中野周边。引流管尖端旁见一密度增高影，可能代表局部肺不张。仰卧位下未见气胸或大量胸腔积液征象。心影及纵隔轮廓未见异常。左侧多发肋骨骨折，建议同日胸部 CT 进一步评估。\n\nImpression:\n左胸猪尾巴管已置入，该仰卧位 X 线片未见残留气胸。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "85"
+    }
+  },
+  {
+    "image": "000086.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n立位 AP 位胸部 X 线片显示，左侧胸腔引流管尖端位置略有改变，目前沿左侧胸壁内表面走行，邻近肋骨骨折处。左肺中叶原有少量肺不张持续存在，此次稍呈线状。未见明确气胸。左肋膈角新发少量肺不张。右肺基底可能存在轻度肺不张，表现为轻微密度增高影。未见心力衰竭征象或实变。未见右侧胸腔积液。心影及纵隔形态较前无变化，考虑与体位差异有关。再次提示多发肋骨骨折，CT 检查显示更为清晰。右肱骨近端陈旧性骨折伴愈合，肱骨头处可见软组织固定锚钉。\n\nImpression:\n左侧胸腔引流管位置较前略有改变，管尖现位于左侧胸壁中内面，需排除轻度回缩。未见气胸。右肺底见模糊影，考虑肺不张。左侧肋膈角及左肺中野见少量肺不张。未见其他急性肺部病变。多发肋骨骨折再次显示。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "86"
+    }
+  },
+  {
+    "image": "000087.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n可见肠内营养管，其尖端位于左膈肌下方，进入胃内，且尖端位于影像下缘之外。心脏及纵隔轮廓未见明显改变。双肺上 zone 见轻度血管再分布及支气管血管束聚集，考虑与仰卧位 AP 投照及肺容积偏低有关。右肺中野及右肺底见斑片状影，可能代表吸入性改变及/或肺不张。本仰卧位检查未见胸腔积液或大量气胸。未见急性骨性异常。\n\nImpression:\n胃管位置标准。肺容积减低，右中下肺野见斑片状阴影，考虑为吸入性病变及/或肺不张所致。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "87"
+    }
+  },
+  {
+    "image": "000088.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n气管插管尖端投影至右主支气管，建议回撤；右颈内静脉鞘管再次见受压折叠。较前片左胸腔积液及左下肺不张增多，右侧胸腔积液可能。心脏大小及纵隔形态正常。较前片右下肺肺炎加重。\n\nImpression:\n气管导管位置偏低，建议上提；右侧颈内静脉鞘管持续受压扭曲。双侧胸腔积液，左侧多于右侧，伴左侧下肺不张。较前片右肺下叶肺炎加重。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "88"
+    }
+  },
+  {
+    "image": "000089.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n左侧 PICC 导管尖端位于上腔静脉中段。鼻胃管尖端位于胃内，但侧孔位置似乎处于胃食管连接部。左侧下叶肺不张较前改善。新发右侧中叶肺不张。可见少量右侧胸腔积液。\n\nImpression:\n胃管侧孔位于食管胃结合部，气管插管位置满意。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "89"
+    }
+  },
+  {
+    "image": "000090.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n左侧 PICC 管位置未变。右肺通气情况基本稳定。右肺下叶见片状实变影，考虑为肺炎、吸入或肺不张，较前无变化。心脏及纵隔轮廓稳定。\n\nImpression:\n较前片无明显变化。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "90"
+    }
+  },
+  {
+    "image": "000091.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n受患者向右旋转影响，评估受限。在此前提下，右肺下叶见片状密度增高影，考虑为肺不张所致，伴右肺体积缩小及纵隔向右侧移位，并可能合并少量胸腔积液。右肺充气区可见小结节状影，考虑为血管断面。左肺野清晰，未见左侧胸腔积液。未见气胸征象。可见陈旧性双侧肋骨骨折。食管管状造影剂末端越过食管胃结合部，管端超出视野。可见来自体外监护及支撑设备的伪影。\n\nImpression:\n右肺下叶实变，考虑为肺不张或实变合并胸腔积液；气管插管及食管管位置恰当。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "91"
+    }
+  },
+  {
+    "image": "000092.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n较前右颈内静脉中心静脉导管已拔除，肠内营养管、气管插管及左侧 PICC 线位置稳定。心脏增大较前稳定。右肺下叶继续部分萎陷，未见新发肺实质浸润影。\n\nImpression:\n右肺基底见持续体积减少，支撑装置位置稳定；已移除右侧颈内静脉中心静脉导管。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "92"
+    }
+  },
+  {
+    "image": "000093.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n较前间隔拔除气管插管及肠内营养管。左侧 PICC 线尖端终止于上腔静脉中段。肺容积减低，心脏增大。右肺下叶不张持续存在。肺水肿较前改善。右侧少量胸腔积液未见变化。未见气胸。\n\nImpression:\n右肺下叶持续不张。已拔除气管导管及肠内营养管。肺水肿较前改善。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "93"
+    }
+  },
+  {
+    "image": "000094.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n心脏大小在考虑技术因素后处于正常范围上限，降主动脉轻度扩张。未见胸腔积液或气胸。双肺野清晰。\n\nImpression:\n未见急性心肺疾病征象。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "94"
+    }
+  },
+  {
+    "image": "000095.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n双肺容积减低。心后区片状密度增高影较昨日好转。心脏大小轻度至中度增大，较前稳定，纵隔及肺门轮廓未见异常。右肺未见明确实变或结节影。\n\nImpression:\n较昨日轻度改善，心后区见片状密度增高影，考虑肺不张或吸入所致，合并感染不能排除；右肺未见新发局灶性病变。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "95"
+    }
+  },
+  {
+    "image": "000096.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n仅行单张便携式半卧位胸部 X 线检查。肺通气较前减少。中至大量右侧层状胸腔积液较前增多。右肺基底见局限性腹腔内气体影。中心肺血管淤血与前片相似。心脏增大未见变化。肠管引流管向下延伸，超出胶片范围。右侧锁骨下静脉导管尖端终止于上腔静脉与右心房交界处。\n\nImpression:\n较昨日检查，右侧胸腔积液增多。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "96"
+    }
+  },
+  {
+    "image": "000097.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n左肺充分扩张且清晰。右肺显示右侧胸腔积液减少，伴残留肺不张，未见气胸征象。心脏大小正常，心影及纵隔轮廓正常。\n\nImpression:\n右侧胸腔积液较前减少，行胸腔穿刺后未见气胸。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "97"
+    }
+  },
+  {
+    "image": "000098.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n床旁直立位胸部正位片显示双肺除左侧下肺门区持续存在的肺不张外，余肺野清晰。未见气胸、胸腔积液或肺水肿。心脏重度增大，伴室尖部钙化性室壁瘤，较前无变化。植入式心律转复除颤器（AICD）及两根电极线位置未见改变。可见鼻胃管经食管进入胃内，远端超出视野。\n\nImpression:\n左下肺门区肺不张稳定，未见提示肺炎的新发肺实质浸润影。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "98"
+    }
+  },
+  {
+    "image": "000099.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n请根据这张胸部影像，用中文撰写结构化报告，分「影像所见」与「印象」两段。"
+      },
+      {
+        "from": "gpt",
+        "value": "Findings:\n胃泡影投射于胃体区。双肺可见弥漫性斑片状实变影，可见于多灶性肺炎或肺水肿。左侧少量胸腔积液。未见气胸。心脏影轻度增大。\n\nImpression:\n双肺弥漫性 airspace 实变影呈进行性加重，考虑肺水肿，但需排除叠加的多灶性肺炎。"
+      }
+    ],
+    "meta": {
+      "source": "translated_en_report",
+      "_resume_key": "99"
+    }
+  }
+]
