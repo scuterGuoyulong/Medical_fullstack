@@ -10,7 +10,7 @@
   pip install jieba nltk rouge-score bert-score
 
 示例:
-  cd Qwen-VL-Series-Finetune
+  cd medical_fullstack/train_unify
   PYTHONPATH=src python scripts/eval_checkpoint_metrics.py \
     --checkpoint output/qwen35_xray_grounding_cot_lora/checkpoint-120 \
     --data_path output/xray_grounding_cot_sft.json \
