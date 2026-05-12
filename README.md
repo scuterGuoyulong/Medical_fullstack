@@ -1,6 +1,6 @@
 # Medical Fullstack：医疗数据处理、训练对齐与 RAG 服务
 
-`medical_fullstack` 是 `andes_vl` 下围绕医疗大模型构建的端到端工程封装。它先负责把医疗问答、MIMIC-CXR 报告、偏好数据和 RAG 知识库整理成可训练/可服务的形态，再通过 `train_unify` 中的统一训练代码完成 Qwen-VL 多模态 SFT、DPO、GRPO、评测和推理服务。
+`medical_fullstack` 是围绕医疗大模型构建的端到端工程封装。它先负责把医疗问答、MIMIC-CXR 报告、偏好数据和 RAG 知识库整理成可训练/可服务的形态，再通过 `train_unify` 中的统一训练代码完成 Qwen-VL 多模态 SFT、DPO、GRPO、评测和推理服务。
 
 项目目标是训练一个**面向患者的中文医疗助手**：能用通俗语言解释医疗问题，能识别高风险症状并提醒就医，能保持医疗安全边界，不直接替代医生诊断和处方。
 
